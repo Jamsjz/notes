@@ -11,7 +11,7 @@ bookref:
 ---
 # Big O
 
-Big O iss a notation to show growth of number of operation with the growth of input.
+Big O is a notation to show growth of number of operation with the growth of input.
 
 It shows the worst case, i.e maximum growth of no. of operations.
 
