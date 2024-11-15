@@ -17,6 +17,7 @@ title: [[Function]]
 7. [[Shifting of Function]]
 8. [[Scaling and Reflecting of Function]]
 9. [[Limit of a Function]]
+10. [[Sandwich Theorem]]
 ```
 
 

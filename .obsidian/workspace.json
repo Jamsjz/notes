@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a8c4dc33dc6163b",
+        "id": "7cce124152ed4bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "df47b4e1223c5557",
+            "id": "6a0b771a9300d21a",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -235,15 +235,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "df47b4e1223c5557",
+  "active": "6a0b771a9300d21a",
   "lastOpenFiles": [
-    "Permanent/Limit of a Function.md",
-    "Permanent/Sandwich Theorem.md",
     "MOC/Functions.md",
+    "Permanent/Sandwich Theorem.md",
+    "MOC/Grokking Algorithms.md",
+    "Permanent/PieceWise Defined Function.md",
+    "Permanent/Big O.md",
+    "Permanent/Limit of a Function.md",
     "Permanent/Scaling and Reflecting of Function.md",
     "Permanent/Domain.md",
     "Permanent/Function.md",
-    "Permanent/PieceWise Defined Function.md",
     "Permanent/Shifting of Function.md",
     "Permanent/Even Function.md",
     "Permanent/Odd Function.md",
@@ -255,7 +257,6 @@
     "Permanent/Breadth-first search.md",
     "Books/kk.md",
     "Permanent/ResNet.md",
-    "MOC/Grokking Algorithms.md",
     "Templates/MOC.md",
     "Permanent/Worst Case vs Best Case.md",
     "Permanent/Recursion.md",
@@ -263,7 +264,6 @@
     "Permanent/Queue.md",
     "Academia/Academia.md",
     "Permanent/Euclid's Algorithm.md",
-    "Permanent/Enzyme Inhibitor Classification Using using CNN.md",
     "Books",
     "Assets/Pasted image 20240820012226.png",
     "Assets/Pasted image 20240820012056.png",

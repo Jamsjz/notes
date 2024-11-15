@@ -3,7 +3,8 @@ title: Sandwich Theorem
 date: 2024-11-15
 tags:
   - Permanent
-refs: 
+refs:
+  - "[[Functions]]"
 netlinks: 
 bookref:
 ---

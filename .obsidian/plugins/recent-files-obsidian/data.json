@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Limit of a Function",
-      "path": "Permanent/Limit of a Function.md"
+      "basename": "Functions",
+      "path": "MOC/Functions.md"
     },
     {
       "basename": "Sandwich Theorem",
       "path": "Permanent/Sandwich Theorem.md"
     },
     {
-      "basename": "Functions",
-      "path": "MOC/Functions.md"
+      "basename": "Grokking Algorithms",
+      "path": "MOC/Grokking Algorithms.md"
+    },
+    {
+      "basename": "PieceWise Defined Function",
+      "path": "Permanent/PieceWise Defined Function.md"
+    },
+    {
+      "basename": "Big O",
+      "path": "Permanent/Big O.md"
+    },
+    {
+      "basename": "Limit of a Function",
+      "path": "Permanent/Limit of a Function.md"
     },
     {
       "basename": "Scaling and Reflecting of Function",
@@ -23,10 +35,6 @@
     {
       "basename": "Function",
       "path": "Permanent/Function.md"
-    },
-    {
-      "basename": "PieceWise Defined Function",
-      "path": "Permanent/PieceWise Defined Function.md"
     },
     {
       "basename": "Shifting of Function",
@@ -63,10 +71,6 @@
     {
       "basename": "Breadth-first search",
       "path": "Permanent/Breadth-first search.md"
-    },
-    {
-      "basename": "Grokking Algorithms",
-      "path": "MOC/Grokking Algorithms.md"
     },
     {
       "basename": "MOC",
@@ -127,10 +131,6 @@
     {
       "basename": "D&C Algorithms",
       "path": "MOC/D&C Algorithms.md"
-    },
-    {
-      "basename": "Big O",
-      "path": "Permanent/Big O.md"
     },
     {
       "basename": "Divide and Conquer",
