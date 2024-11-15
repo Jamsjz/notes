@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "311650cddba6d0e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8c4dc33dc6163b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df47b4e1223c5557",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e6389d344b1ef08",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac3c19a90be64e02",
+        "type": "tabs",
+        "dimension": 48.79759519038076,
+        "children": [
+          {
+            "id": "6f09e494083f9dd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "16c9315d9cd79377",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Anomaly",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d929dd3dbb0217b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "88b9fdaf0f45e28d",
+        "type": "tabs",
+        "dimension": 28.757515030060123,
+        "children": [
+          {
+            "id": "71c38a5a14255160",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "22a3f2f3ee7415e3",
+        "type": "tabs",
+        "dimension": 22.44488977955912,
+        "children": [
+          {
+            "id": "1af9b5a3b0c59af2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "84508691ca38bffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60eff3aff06b342",
+        "type": "tabs",
+        "dimension": 65.57692307692308,
+        "children": [
+          {
+            "id": "1fced35c0a03588c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0eade5f459792ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fleeting/Function.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Function"
+            }
+          },
+          {
+            "id": "76b46b5f733650c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "24130d1982b50672",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c99ff83bf3128023",
+        "type": "tabs",
+        "dimension": 34.42307692307692,
+        "children": [
+          {
+            "id": "0d505ed5ddb5ce06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b0c97c84f5917807",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fleeting/Cutout Pro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cutout Pro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "df47b4e1223c5557",
+  "lastOpenFiles": [
+    "Permanent/Limit of a Function.md",
+    "Permanent/Sandwich Theorem.md",
+    "MOC/Functions.md",
+    "Permanent/Scaling and Reflecting of Function.md",
+    "Permanent/Domain.md",
+    "Permanent/Function.md",
+    "Permanent/PieceWise Defined Function.md",
+    "Permanent/Shifting of Function.md",
+    "Permanent/Even Function.md",
+    "Permanent/Odd Function.md",
+    "MOC/Data and Presentation of Data.md",
+    "Permanent/Presenting a technical topic.md",
+    "Permanent/Function Checks.md",
+    "Permanent/Range.md",
+    "Templates/Permanent.md",
+    "Permanent/Breadth-first search.md",
+    "Books/kk.md",
+    "Permanent/ResNet.md",
+    "MOC/Grokking Algorithms.md",
+    "Templates/MOC.md",
+    "Permanent/Worst Case vs Best Case.md",
+    "Permanent/Recursion.md",
+    "MOC",
+    "Permanent/Queue.md",
+    "Academia/Academia.md",
+    "Permanent/Euclid's Algorithm.md",
+    "Permanent/Enzyme Inhibitor Classification Using using CNN.md",
+    "Books",
+    "Assets/Pasted image 20240820012226.png",
+    "Assets/Pasted image 20240820012056.png",
+    "Assets/Pasted image 20240820011942.png",
+    "Assets/Pasted image 20240820010824.png",
+    "Assets/Pasted image 20240820010642.png",
+    "Assets/Pasted image 20240820010454.png",
+    "Assets/Pasted image 20240820005917.png",
+    "Assets/Pasted image 20240820005835.png",
+    "Assets/Pasted image 20240820005520.png",
+    "Assets/Pasted image 20240820005459.png",
+    "Assets/Lightsout_V.2.0 (dark).qss",
+    "caret/chats",
+    "caret",
+    "Assets/Books/Entrance Formulas.pdf",
+    "Assets/Books/Data Structures and Algorithms in Python.pdf",
+    "Daily",
+    "latexrc",
+    "Shortest Path.canvas",
+    "Academia"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "Literature",
+      "template": "Templates/Literature.md"
+    },
+    {
+      "folder": "Daily",
+      "template": "Templates/Daily.md"
+    },
+    {
+      "folder": "Periodic/Daily",
+      "template": "Templates/Daily.md"
+    },
+    {
+      "folder": "Periodic/Monthly",
+      "template": "Templates/Monthly.md"
+    },
+    {
+      "folder": "MOC",
+      "template": "Templates/MOC.md"
+    },
+    {
+      "folder": "Permanent",
+      "template": "Templates/Permanent.md"
+    },
+    {
+      "folder": "Fleeting",
+      "template": "Templates/Fleeting.md"
+    },
+    {
+      "folder": "Projects",
+      "template": "Templates/soem.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Assets",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "Daily/",
+    "Templates/"
+  ],
+  "promptDelete": false,
+  "showRibbon": false,
+  "showInlineTitle": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden",
+  "newFileFolderPath": "Fleeting"
+}

@@ -1,0 +1,10 @@
+{
+  "new-note-folder": "Projects",
+  "show-checkboxes": true,
+  "full-list-lane-width": true,
+  "new-note-template": "Templates/soem.md",
+  "move-tags": true,
+  "move-dates": true,
+  "show-relative-date": true,
+  "link-date-to-daily-note": false
+}

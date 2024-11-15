@@ -1,0 +1,5 @@
+body {
+    --file-line-width: 900px !important;
+    --metadata-display-reading: none;
+    --metadata-display-editing: none;
+}

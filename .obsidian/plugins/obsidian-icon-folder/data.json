@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#000000",
+    "recentlyUsedIcons": [
+      "LiGraduationCap",
+      "LiLibraryBig",
+      "LiCalendarDays",
+      "TiBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "Assets",
+        "icon": "TiAsset",
+        "for": "everything",
+        "order": 0,
+        "color": "#2b00ff"
+      },
+      {
+        "rule": "Periodic",
+        "icon": "LiCalendarDays",
+        "for": "everything",
+        "order": 1,
+        "color": "#00ff1e"
+      },
+      {
+        "rule": "Fleeting",
+        "icon": "BoBxRun",
+        "for": "everything",
+        "order": 2,
+        "color": "#ff0000"
+      },
+      {
+        "rule": "MOC",
+        "icon": "LiMap",
+        "for": "everything",
+        "order": 3,
+        "color": "#d4ff00"
+      },
+      {
+        "rule": "Literature",
+        "icon": "FasBook",
+        "for": "everything",
+        "order": 4,
+        "color": "#00fbff"
+      },
+      {
+        "rule": "Permanent",
+        "icon": "LiLibraryBig",
+        "for": "everything",
+        "order": 5,
+        "color": "#c458fe"
+      },
+      {
+        "rule": "Projects",
+        "icon": "RiProjectorFill",
+        "for": "everything",
+        "order": 6,
+        "color": "#94c2ff"
+      },
+      {
+        "rule": "Templates",
+        "icon": "TiTemplate",
+        "for": "everything",
+        "order": 7,
+        "color": "#c875ff"
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Books": "TiBook",
+  "Periodic": "LiCalendarDays",
+  "Permanent": {
+    "iconName": "LiLibraryBig",
+    "iconColor": "#37ff00"
+  }
+}

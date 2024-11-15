@@ -1,0 +1,63 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Permanent",
+      "tag": "#Permanent",
+      "pattern": ""
+    },
+    {
+      "folder": "Literature",
+      "tag": "#literature",
+      "pattern": ""
+    },
+    {
+      "folder": "Academia",
+      "tag": "#Academia",
+      "pattern": ""
+    },
+    {
+      "folder": "Projects",
+      "tag": "#Project",
+      "pattern": ""
+    },
+    {
+      "folder": "Fleeting",
+      "tag": "#fleeting",
+      "pattern": ""
+    },
+    {
+      "folder": "MOC",
+      "tag": "#MOC",
+      "pattern": ""
+    },
+    {
+      "folder": "Periodic/Daily",
+      "tag": "#Daily",
+      "pattern": ""
+    },
+    {
+      "folder": "Periodic/Monthly",
+      "tag": "#Monthly",
+      "pattern": ""
+    },
+    {
+      "folder": "Periodic/Weekly",
+      "tag": "#Weekly",
+      "pattern": ""
+    },
+    {
+      "folder": "Periodic/Yearly",
+      "tag": "#Yearly",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Templates"
+    }
+  ]
+}

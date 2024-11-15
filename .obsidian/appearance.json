@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Rosé Pine",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter,Fira Sans",
+  "textFontFamily": "Fira Code,Courier",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 28,
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "main",
+    "body",
+    "pdf_dark_mode"
+  ]
+}
