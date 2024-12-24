@@ -29,6 +29,7 @@ list from [[]] and !outgoing([[]])
 
 4. Chapter 4
 	- [[Data Exploration]]
+	- [[Data Visualization]]
 
 
 

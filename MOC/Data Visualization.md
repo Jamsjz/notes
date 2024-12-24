@@ -23,7 +23,7 @@ Data visualization is the graphical representation of information and data.
 - Helps people see, interact with, and better understand data.
 - Visualize patterns and relationships
 
-[[Visualization Asthetic]] is a very important concept that helps Data Visualization for being so accessible.
+[[Visualization Aesthetic]] is a very important concept that helps Data Visualization for being so accessible.
 
 ---
 ## Disadvantages of Data Visualization
