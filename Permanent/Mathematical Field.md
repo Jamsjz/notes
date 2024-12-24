@@ -13,6 +13,7 @@ bookref:
 ---
 > Field is not always in football.
 ---
+
 ## Theory
 A field in mathematics is a [[Set]] $\mathbb{F}$ equipped with two binary operations, typically referred to as addition $+$ and multiplication $*$, satisfying specific properties.
 
@@ -41,3 +42,6 @@ $\mathbb{R}$ is a field.
 
 1. Field is essentially combination of two [[Mathematical Group]]s.
 2. Field is the triplet of set, addition operation and multiplication.
+---
+# Sources
+1. [The Field Axioms](http://people.reed.edu/~mayer/math112.html/html1/node16.html)
