@@ -28,8 +28,7 @@ list from [[]] and !outgoing([[]])
 	- [[Data Analysis Techniques]]
 
 4. Chapter 4
-	- 
-
+	- [[Data Exploration]]
 
 
 
