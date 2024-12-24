@@ -4,7 +4,8 @@ date: 2024-12-11
 tags:
   - Permanent
 refs: 
-netlinks: 
+netlinks:
+  - http://people.reed.edu/~mayer/math112.html/html1/node16.html
 bookref:
 ---
 # Mathematical Field
@@ -18,6 +19,11 @@ bookref:
 A field in mathematics is a [[Set]] $\mathbb{F}$ equipped with two binary operations, typically referred to as addition $+$ and multiplication $*$, satisfying specific properties.
 
 The formal definition can be outlined as follows:
+[[Field]]
+
+---
+### Informal Defination:
+
 1. A field consists of a set $\mathbb{F}$ containing at least two elements.
 2. Binary Operations: The operations + and ⋅ must be defined for all elements in $\mathbb{F}$.
 3. Axioms: The following axioms must hold for all elements $a,b,c∈F$:
