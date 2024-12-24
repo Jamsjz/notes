@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Data Visualization.md",
+                "file": "Permanent/Rolle's Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Visualization"
+              "title": "Rolle's Theorem"
             }
           }
         ]
@@ -219,8 +219,12 @@
   },
   "active": "9146edd856378cb4",
   "lastOpenFiles": [
-    "Permanent/Mathematical Operations.md",
+    "Permanent/Fermat's Theorem.md",
+    "Permanent/Differentiability of a Function.md",
+    "Permanent/Rolle's Theorem.md",
+    "Permanent/Mean Value Theorem.md",
     "MOC/Data Visualization.md",
+    "Permanent/Mathematical Operations.md",
     "Fleeting/Types of Mathematical Operations.md",
     "Permanent/Ascombe’s Quartet.md",
     "MOC/Data Science Life Cycle.md",
@@ -241,14 +245,12 @@
     "Permanent/Data Analytics.md",
     "Permanent/Data Analysis.md",
     "Permanent/Definition of Data Science.md",
-    "Permanent/Differentiability of a Function.md",
     "Assets/Pasted image 20241223201054.png",
     "Assets/Pasted image 20241212222026.png",
     "Templates/Permanent.md",
     "Permanent/Span.md",
     "Permanent/Abelian Group.md",
     "Permanent/Extremas of a Function.md",
-    "Permanent/Addition of Two Matrices.md",
-    "Templates/Fleeting.md"
+    "Permanent/Addition of Two Matrices.md"
   ]
 }
