@@ -8,7 +8,7 @@ netlinks:
 bookref:
 ---
 # Data Visualization
-==2024-12-24=!=
+==2024-12-24==
 
 ---
 > A picture is worth a thousand words.
@@ -32,6 +32,10 @@ Data visualization is the graphical representation of information and data.
 - Misleading visualization can be generated.
 - Correlation doesn’t always mean causation.
 - Core messages can get lost in translation.
+
+## Chart Suggestions a Thought Starter
+
+![[Pasted image 20241224135455.png]]
 
 ---
 ## Examples

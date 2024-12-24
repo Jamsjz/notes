@@ -7,7 +7,7 @@ netlinks:
 bookref: 
 ---
 # <% tp.file.title %>
-==<%tp.date.now()%>=!=
+==<%tp.date.now()%>==
 
 ---
 > <%tp.file.cursor(4)%>

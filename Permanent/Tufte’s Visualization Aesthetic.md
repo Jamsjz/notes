@@ -82,6 +82,30 @@ Tufte’s principles serve as foundational guidelines for creating [[Data Visual
 
 ---
 ## Examples
+Simplifying a plot:
+
+![[Pasted image 20241224134908.png]]
+
+1. 
+
+![[Pasted image 20241224134925.png]]
+**Removed Heavy Gridlines**
+
+2. 
+
+![[Pasted image 20241224134956.png]]
+**Maximizing [[Data-Ink Ratio]]**
+
+3. 
+
+![[Pasted image 20241224135105.png]]
+**Remove Unnecessary axes**
+
+4. 
+
+![[Pasted image 20241224135144.png]]
+**Using guide bars and removing axes line**
+
 
 
 ---

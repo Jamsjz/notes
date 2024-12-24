@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed862c8b8af375d8",
+        "id": "39986d8221b74cde",
         "type": "tabs",
         "children": [
           {
-            "id": "807da2f8b1f37d14",
+            "id": "09e35de9ab324ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ab80d19b861f11b2",
@@ -95,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/DSMA-111 Introduction to Data Science.md"
+                "file": "Permanent/Tufte’s Visualization Aesthetic.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DSMA-111 Introduction to Data Science"
+              "title": "Outline of Tufte’s Visualization Aesthetic"
             }
           },
           {
@@ -127,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC/DSMA-111 Introduction to Data Science.md",
+                "file": "Permanent/Tufte’s Visualization Aesthetic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +154,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DSMA-111 Introduction to Data Science"
+              "title": "Graph of Tufte’s Visualization Aesthetic"
             }
           }
         ]
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/DSMA-111 Introduction to Data Science.md",
+                "file": "Permanent/Tufte’s Visualization Aesthetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DSMA-111 Introduction to Data Science"
+              "title": "Backlinks for Tufte’s Visualization Aesthetic"
             }
           }
         ],
@@ -203,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,27 +216,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "807da2f8b1f37d14",
+  "active": "09e35de9ab324ee1",
   "lastOpenFiles": [
+    "Templates/Permanent.md",
+    "MOC/Data Visualization.md",
+    "Assets/Pasted image 20241224135455.png",
+    "Permanent/Tufte’s Visualization Aesthetic.md",
+    "Assets/Pasted image 20241224135144.png",
+    "Assets/Pasted image 20241224135105.png",
+    "Assets/Pasted image 20241224134956.png",
+    "Assets/Pasted image 20241224134925.png",
+    "Assets/Pasted image 20241224134908.png",
     "Assets/Pasted image 20241224134148.png",
     "Assets/Pasted image 20241224134126.png",
-    "Permanent/Tufte’s Visualization Aesthetic.md",
     "Assets/Pasted image 20241224133432.png",
     "Assets/Pasted image 20241224133417.png",
-    "Assets/Pasted image 20241224133402.png",
-    "Assets/Pasted image 20241224133237.png",
-    "Assets/Pasted image 20241224133223.png",
-    "Assets/Pasted image 20241224131905.png",
-    "Assets/Pasted image 20241224131850.png",
-    "Assets/Pasted image 20241224131418.png",
-    "Assets/Pasted image 20241224131400.png",
     "Permanent/Visualization Aesthetic.md",
     "MOC/DSMA-111 Introduction to Data Science.md",
     "Permanent/Rolle's Theorem.md",
     "Permanent/Fermat's Theorem.md",
     "Permanent/Differentiability of a Function.md",
     "Permanent/Mean Value Theorem.md",
-    "MOC/Data Visualization.md",
     "Permanent/Mathematical Operations.md",
     "Fleeting/Types of Mathematical Operations.md",
     "Permanent/Ascombe’s Quartet.md",
@@ -254,7 +252,6 @@
     "Permanent/Data Analytics.md",
     "Permanent/Data Analysis.md",
     "Permanent/Definition of Data Science.md",
-    "Templates/Permanent.md",
     "Permanent/Span.md"
   ]
 }
