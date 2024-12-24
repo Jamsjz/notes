@@ -45,20 +45,20 @@ Data visualization is the graphical representation of information and data.
 Visualization is done in many ways and in many conditions.
 The common visualizations are:
 1. [[Tabular Data]]
-2. [[Pie Chart]]
-3. [[Bar Graph]]
-4. [[Line Plot]]
-5. [[Scatter Plot]]
-6. [[Box and Whiskers Plot]]
-7. [[Stem and Leaf Display]]
-8. [[Dot plot]]
-9. [[Histograms]]
-10. [[Frequency Polygon]]
-11. [[Data Maps]]
-12. [[Curve of Cumulative Frequency]]
-13. [[Frequency Distribution]]
+2. [[Bar Graph]]
+3. [[Pie Chart]]
+4. [[Frequency Distribution]]
+5. [[Dot plot]]
+6. [[Stem and Leaf Display]]
+7. [[Histograms]]
+8. [[Frequency Polygon]]
+9. [[Box and Whiskers Plot]]
+10. [[Violin Plot]]
+11. [[Curve of Cumulative Frequency]]
+12. [[Scatter Plot]]
+13. [[Line Plot]]
 14. [[Probability Distribution]]
-15. [[Violin Plot]]
+15. [[Data Maps]]
 
 ---
 ## Q&A
