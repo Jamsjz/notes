@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ef468a1b96fd785",
+        "id": "ed862c8b8af375d8",
         "type": "tabs",
         "children": [
           {
-            "id": "9146edd856378cb4",
+            "id": "807da2f8b1f37d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,15 +218,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9146edd856378cb4",
+  "active": "807da2f8b1f37d14",
   "lastOpenFiles": [
+    "Assets/Pasted image 20241224134148.png",
+    "Assets/Pasted image 20241224134126.png",
+    "Permanent/Tufte’s Visualization Aesthetic.md",
+    "Assets/Pasted image 20241224133432.png",
+    "Assets/Pasted image 20241224133417.png",
+    "Assets/Pasted image 20241224133402.png",
+    "Assets/Pasted image 20241224133237.png",
+    "Assets/Pasted image 20241224133223.png",
     "Assets/Pasted image 20241224131905.png",
     "Assets/Pasted image 20241224131850.png",
     "Assets/Pasted image 20241224131418.png",
     "Assets/Pasted image 20241224131400.png",
-    "Assets/Pasted image 20241224131116.png",
     "Permanent/Visualization Aesthetic.md",
-    "Permanent/Tufte’s Visualization Aesthetic.md",
     "MOC/DSMA-111 Introduction to Data Science.md",
     "Permanent/Rolle's Theorem.md",
     "Permanent/Fermat's Theorem.md",
@@ -237,11 +243,6 @@
     "Fleeting/Types of Mathematical Operations.md",
     "Permanent/Ascombe’s Quartet.md",
     "MOC/Data Science Life Cycle.md",
-    "Assets/Pasted image 20241223134146.png",
-    "Assets/Pasted image 20241214152359.png",
-    "Assets/Pasted image 20241212221605.png",
-    "Assets/Pasted image 20241224105525.png",
-    "Assets/Pasted image 20241224105504.png",
     "Permanent/Exploratory Data Analysis.md",
     "Permanent/Difference between Data Analysis and Data Analytics.md",
     "Permanent/Data Exploration.md",
@@ -253,7 +254,6 @@
     "Permanent/Data Analytics.md",
     "Permanent/Data Analysis.md",
     "Permanent/Definition of Data Science.md",
-    "Assets/Pasted image 20241223201054.png",
     "Templates/Permanent.md",
     "Permanent/Span.md"
   ]
