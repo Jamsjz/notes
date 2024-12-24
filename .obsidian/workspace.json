@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "8a13a7370117c25c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07950d3f8fb261e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf5ec8d08531e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC/DSMA-111 Introduction to Data Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSMA-111 Introduction to Data Science"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a6c5b2823b68fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "23aeedbc9300b579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf18bc8a8b90116",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d7b75fc9f385629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ef8c25eeb8c7568",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ab80d19b861f11b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb4c55c1a26bc2f7",
+        "type": "tabs",
+        "dimension": 34.81481481481482,
+        "children": [
+          {
+            "id": "5360ee91cad666aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MOC/DSMA-111 Introduction to Data Science.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DSMA-111 Introduction to Data Science"
+            }
+          },
+          {
+            "id": "f04df5dac09a86e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e495854e14a8834",
+        "type": "tabs",
+        "dimension": 31.85185185185186,
+        "children": [
+          {
+            "id": "27e0ba91854f4299",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "MOC/DSMA-111 Introduction to Data Science.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4739129736210441,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of DSMA-111 Introduction to Data Science"
+            }
+          }
+        ]
+      },
+      {
+        "id": "18b7c993ffd3834c",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "d8fcf5ec66179751",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MOC/DSMA-111 Introduction to Data Science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DSMA-111 Introduction to Data Science"
+            }
+          },
+          {
+            "id": "918b27e8c550b2d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MOC/DSMA-111 Introduction to Data Science.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DSMA-111 Introduction to Data Science"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "adf5ec8d08531e46",
+  "lastOpenFiles": [
+    "MOC/Data Analysis Techniques.md",
+    "Permanent/Data Types.md",
+    "MOC/Data and Presentation of Data.md",
+    "MOC/Data Preprocessing.md",
+    "Permanent/Difference between Data Analysis and Data Analytics.md",
+    "Permanent/Data Analytics.md",
+    "Permanent/Data Analysis.md",
+    "Permanent/Definition of Data Science.md",
+    "Permanent/Differentiability of a Function.md",
+    "Assets/Pasted image 20241223134146.png",
+    "Assets/Pasted image 20241223201054.png",
+    "Assets/Pasted image 20241214152359.png",
+    "Assets/Pasted image 20241212222026.png",
+    "Assets/Pasted image 20241212221605.png",
+    "MOC/Data Science Life Cycle.md",
+    "Templates/Permanent.md",
+    "Permanent/Span.md",
+    "Permanent/Abelian Group.md",
+    "Permanent/Extremas of a Function.md",
+    "Permanent/Addition of Two Matrices.md",
+    "Templates/Fleeting.md"
+  ]
+}

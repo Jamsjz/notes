@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Fleeting",
+  "userIgnoreFilters": [
+    "Templates/",
+    "Assets/"
+  ]
+}
