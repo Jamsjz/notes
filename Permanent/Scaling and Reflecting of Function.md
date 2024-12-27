@@ -29,7 +29,7 @@ The graph stretches vertically.
 1. If $c \in (0,1)$,
 The graph compresses horizontally
 2. If $c \in (0,1)$,
-The graph streches horizontally.
+The graph stretches horizontally.
 
 ---
 ## Examples
