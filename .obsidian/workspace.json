@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Scaling and Reflecting of Function"
             }
+          },
+          {
+            "id": "18f1a5315e88feda",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,11 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Permanent/Scaling and Reflecting of Function.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Scaling and Reflecting of Function"
+              "title": "Outline"
             }
           },
           {
@@ -126,7 +137,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/Scaling and Reflecting of Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Scaling and Reflecting of Function"
+              "title": "Graph view"
             }
           }
         ]
@@ -184,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Scaling and Reflecting of Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scaling and Reflecting of Function"
+              "title": "Backlinks"
             }
           }
         ],
@@ -216,7 +225,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09e35de9ab324ee1",
+  "active": "18f1a5315e88feda",
   "lastOpenFiles": [
     "MOC/Data Visualization.md",
     "Permanent/Mathematical Field.md",
