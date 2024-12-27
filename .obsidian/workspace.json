@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Data Visualization.md",
-                "mode": "preview",
+                "file": "Permanent/Scaling and Reflecting of Function.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Data Visualization"
+              "title": "Scaling and Reflecting of Function"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Data Visualization.md"
+                "file": "Permanent/Scaling and Reflecting of Function.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Visualization"
+              "title": "Outline of Scaling and Reflecting of Function"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC/Data Visualization.md",
+                "file": "Permanent/Scaling and Reflecting of Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Data Visualization"
+              "title": "Graph of Scaling and Reflecting of Function"
             }
           }
         ]
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/Data Visualization.md",
+                "file": "Permanent/Scaling and Reflecting of Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Visualization"
+              "title": "Backlinks for Scaling and Reflecting of Function"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "09e35de9ab324ee1",
   "lastOpenFiles": [
+    "MOC/Data Visualization.md",
     "Permanent/Mathematical Field.md",
     "MOC/Matrices.md",
     "MOC/Vector Space.md",
@@ -225,7 +226,6 @@
     "Templates/Permanent.md",
     "Permanent/Presenting a technical topic.md",
     "Permanent/Tufte’s Visualization Aesthetic.md",
-    "MOC/Data Visualization.md",
     "Assets/Pasted image 20241224135455.png",
     "Assets/Pasted image 20241224135144.png",
     "Assets/Pasted image 20241224135105.png",

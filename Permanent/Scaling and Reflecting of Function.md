@@ -28,8 +28,8 @@ The graph compresses vertically
 
 1. If $c \in (0,1)$,
 The graph compresses horizontally
-2. 
-... streches ...
+2. If $c \in (0,1)$,
+The graph streches horizontally.
 
 ---
 ## Examples
@@ -37,10 +37,13 @@ Here, $f(x)=x^2$ -> blue
 1. In cf(x),
 	1. $c \in (0,1)$ -> yellow
 	2. $c \in (1, \infty)$ -> red
+	
 2. In f(cx),
 	3. $c \in (0,1)$ -> purple
 	4. $c \in (1, \infty)$ -> black
+	
 5. reflection -> c < 0 -> green
+
 ```desmos-graph
 f(x)=x^2|blue
 f(x)=0.5*x^2|yellow
