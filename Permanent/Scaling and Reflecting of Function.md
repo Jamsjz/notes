@@ -22,7 +22,7 @@ c = no. for scaled function $y=c*f(x)$ or $y=f(c*x)$
 1. If $c \in (0,1)$,
 The graph compresses vertically
 2. If $c \in (1, \infty)$,
-The graph streches vertically.
+The graph stretches vertically.
 
 > [!important] For $y=f(c*x)$
 
