@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/Scaling and Reflecting of Function.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaling and Reflecting of Function"
+              "title": "index"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent/Scaling and Reflecting of Function.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Scaling and Reflecting of Function"
+              "title": "Outline of index"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/Scaling and Reflecting of Function.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Scaling and Reflecting of Function"
+              "title": "Graph of index"
             }
           }
         ]
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Scaling and Reflecting of Function.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scaling and Reflecting of Function"
+              "title": "Backlinks for index"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "09e35de9ab324ee1",
   "lastOpenFiles": [
+    "Permanent/Scaling and Reflecting of Function.md",
     "MOC/Data Visualization.md",
     "Permanent/Mathematical Field.md",
     "MOC/Matrices.md",
@@ -252,7 +253,6 @@
     "MOC/DSMA-115 Calculus-1.md",
     "MOC/Data Analysis Techniques.md",
     "Permanent/Data Types.md",
-    "MOC/Data and Presentation of Data.md",
-    "MOC/Data Preprocessing.md"
+    "MOC/Data and Presentation of Data.md"
   ]
 }

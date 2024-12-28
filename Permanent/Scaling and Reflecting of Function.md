@@ -13,21 +13,28 @@ bookref:
 ==2024-11-14
 
 ## Theory
-For a function $y=f(x)$ For scaling, c>0. For reflecting, c<0.
+For a function $y=f(x)$: 
+
+For scaling, -> c>0
+
+For reflecting, c<0.
+
 where,
-c = no. for scaled function $y=c*f(x)$ or $y=f(c*x)$
+c = no. for scaled function $y=c*f(x)$ or $y=f(c*x)$ 
 
 > [!important] For $y=c*f(x)$
 
 1. If $c \in (0,1)$,
-The graph compresses vertically
+The graph compresses vertically.
+
 2. If $c \in (1, \infty)$,
 The graph stretches vertically.
 
 > [!important] For $y=f(c*x)$
 
 1. If $c \in (0,1)$,
-The graph compresses horizontally
+The graph compresses horizontally.
+
 2. If $c \in (0,1)$,
 The graph stretches horizontally.
 
