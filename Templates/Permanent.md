@@ -11,7 +11,6 @@ bookref:
 
 ---
 > <%tp.file.cursor(4)%>
-
 ---
 ## Theory
 <% tp.file.cursor(1) %>

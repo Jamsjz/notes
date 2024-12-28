@@ -26,7 +26,7 @@ Data preprocessing refers to any processing performed on raw data to prepare it 
   Missing data can hinder analysis. Preprocessing involves handling missing values through techniques like imputation, removal of incomplete records, or flagging them for further investigation.
 
 - **Consistency**  
-  Inconsistent data (e.g., modified in some records but not in others) is resolved through normalization, standardization, and resolving discrepancies. Preprocessing ensures uniformity across datasets.
+  [[Inconsistent Data]] (e.g., modified in some records but not in others) is resolved through normalization, standardization, and resolving discrepancies. Preprocessing ensures uniformity across datasets.
 
 - **Timeliness**  
   Data must be up-to-date for it to be useful. Preprocessing ensures timely updates by incorporating the latest data and removing outdated or irrelevant records.
@@ -80,13 +80,14 @@ Data reduction aims to reduce the size of the dataset while preserving its integ
 ### [[Data Cube Aggregation]]
 Aggregate data to higher levels of abstraction, like summarizing sales data by month instead of daily transactions.
 
-### [[Attribute Subset Selection]]
-Reduce the number of attributes by selecting only the most important ones using techniques like [[Principal Component Analysis (PCA)]].
+### [[Feature Selection|Attribute Subset Selection]]
+Reduce the number of attributes by selecting only the most important ones using techniques like [[Principal Component Analysis |Principal Componenet Analysis (PCA)]].
 
 ### [[Numerosity Reduction]]
-Simplify data representation by replacing raw data with alternative models, such as histograms or clustering-based summaries.
-
+Numerosity reduction involves replacing the original dataset with a smaller representation that retains the key information. The primary goals are to minimize storage requirements, enhance processing speed, and improve the performance of data mining algorithms while ensuring that the integrity of the data is maintained.
 ### [[Dimensionality Reduction]]
 Reduce the number of dimensions in a dataset using methods like PCA or [[t-Distributed Stochastic Neighbor Embedding (t-SNE)]] while retaining meaningful information.
+
+Dimensionality reduction is a key technique in data mining and machine learning that focuses on reducing the number of features or variables in a dataset while retaining its essential information. This process is vital for simplifying complex datasets, improving computational efficiency, and enhancing the performance of machine learning models.
 
 ---
