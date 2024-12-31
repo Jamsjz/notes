@@ -26,6 +26,6 @@ list from [[]] and !outgoing([[]])
 > 9. [[Sandwich Theorem]]
 > 10. [[Limit and Continuity]]
 > 11. [[Derivative of a Function]]
-
+> 12. [[Integration of a Function]]
 
 ---

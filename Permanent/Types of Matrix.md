@@ -25,11 +25,11 @@ $m=n$ in $A_{m\times n}$
 4. Diagonal matrix
 $A_{m\times n}$ where $a_{ij}=0$ if $i\neq j$
 
-5. Scalar matrix
-$A_{m\times n}$ where $a_{ij}=0$ if $i\neq j$ and $a_{i_{1}j_{1}}=a_{i_{2}j_{2}}$ when $(i_{1},i_{2})=(j_{1},j_{2})$.
-
-6. Identity
+5. Identity
 $A_{m\times n}$ where $a_{ij}=0$ if $i\neq j$ and $a_{ij}=1$ when $i=j$.
+
+6. Scalar matrix
+$A_{n}$, where $A=kI_{n}$ , k is a scalar.
 
 7. Upper Triangle Matrix
 $A_{m\times n}$ where $a_{ij}=0$ if $i,j<1$

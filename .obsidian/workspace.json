@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Data Visualization.md",
-                "mode": "preview",
+                "file": "Permanent/Types of Matrix.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Visualization"
+              "title": "Types of Matrix"
             }
           }
         ]
@@ -220,6 +220,14 @@
   },
   "active": "1777df7a212b9da3",
   "lastOpenFiles": [
+    "Permanent/Properties of Matrix Operations.md",
+    "MOC/Operations on Matrices.md",
+    "Permanent/Orthogonal Matrix.md",
+    "Permanent/Unitary Matrix.md",
+    "Permanent/Integration by Sum of Limits.md",
+    "MOC/Integration of a Function.md",
+    "MOC/Functions.md",
+    "MOC/Data Visualization.md",
     "MOC/DSMA-111 Introduction to Data Science.md",
     "Permanent/Exploratory Data Analysis.md",
     "MOC/Data Preprocessing.md",
@@ -233,13 +241,11 @@
     "MOC/Semester 1.md",
     "index.md",
     "Permanent/Scaling and Reflecting of Function.md",
-    "MOC/Data Visualization.md",
     "Permanent/Mathematical Field.md",
     "MOC/Matrices.md",
     "MOC/Vector Space.md",
     "Permanent/Field.md",
     "Permanent/Presenting a technical topic.md",
-    "Permanent/Tufte’s Visualization Aesthetic.md",
     "Assets/Pasted image 20241224135455.png",
     "Assets/Pasted image 20241224135144.png",
     "Assets/Pasted image 20241224135105.png",
@@ -249,12 +255,6 @@
     "Assets/Pasted image 20241224134148.png",
     "Assets/Pasted image 20241224134126.png",
     "Assets/Pasted image 20241224133432.png",
-    "Assets/Pasted image 20241224133417.png",
-    "Permanent/Visualization Aesthetic.md",
-    "Permanent/Rolle's Theorem.md",
-    "Permanent/Fermat's Theorem.md",
-    "Permanent/Differentiability of a Function.md",
-    "Permanent/Mean Value Theorem.md",
-    "Permanent/Mathematical Operations.md"
+    "Assets/Pasted image 20241224133417.png"
   ]
 }

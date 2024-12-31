@@ -15,6 +15,8 @@ bookref:
 ---
 ## Theory
 If the [[Transpose of a Matrix|transpose of a matrix]] is [[Equality of Matrices|equal]] the [[Inverse of a Matrix|inverse of the matrix]].
+Mathematically,
+$$A^T=A^{-1}$$
 
 ---
 # PTR
