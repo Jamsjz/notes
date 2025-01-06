@@ -21,7 +21,7 @@ We see the world around us in three dimensions but we encounter many different f
 
 n-space is the set of all possible ordered [[n-Tuples]] taken from $\mathbb{R}^n$ and is written as:
 
-$V_{n}=\mathbb{R}^n=\begin{cases} \bar{x}:\bar{x}=(x_{1}, x_{2}, x_{3},\dots,x_{n})\text{ where } x_{i} \in \mathbb{R},1\leq i \leq n\end{cases}$
+$\mathbb{R}^n=\begin{cases} \bar{x}:\bar{x}=(x_{1}, x_{2}, x_{3},\dots,x_{n})\text{ where } x_{i} \in \mathbb{R},1\leq i \leq n\end{cases}$
 
 Here, we have defined the [[Set]] for the [[Vector Space]] [[Structures or Systems]].
 

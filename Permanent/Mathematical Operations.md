@@ -12,7 +12,7 @@ bookref:
 
 ---
 ## Theory
-Mathematical Operations are the functions that we can perform among the members of the set.
+Mathematical Operations are the [[Function|functions]] that we can perform among the members of the set.
 
 What we operate on is called [[Operand]].
 What we operate is called [[Operator]].
@@ -39,7 +39,7 @@ Addition between two numbers is a mathematical operation.
 
 > [!question] How can we know if [[Mathematical Operations]] are well defined?
 > If the outcome of the operation lies in the set from which we take the operands then the operation is well defined.
-> i.e for every $(a,b)\in A\times A$, $a*b\in A$. 
+> i.e $\forall(a,b)\in A\times A$, $a*b\in A$. 
 >> [!important] 
 >>>
 >> If an operation is well defined, we generally talk and discuss
