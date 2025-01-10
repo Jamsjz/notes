@@ -14,7 +14,7 @@ bookref:
 ## Theory
 
 Two matrices A = $[a_{ij}]_{m_{a}\times n_{a}}$, B = $[b_{ij}]_{m_{b}\times n_{b}}$ are said to be equal in following condition:
-$$A=B\iff(m_{a}=m_{b} \text{ } \Lambda \text{ } n_{a}=n_{b})\text{ }\Lambda\text{ }(a_{ij}=b_{ij})$$
+$$A=B\iff(m_{a},n_{a})=(m_{b},n_{b})\text{ }\Lambda\text{ }(a_{ij}=b_{ij})$$
 ---
 ## Examples
 

@@ -15,7 +15,7 @@ bookref:
 ---
 ## Theory
 A complex matrix $C$ is defined as:
-$C=[a_{jk}]_{m\times n}$, $a_{ij}=c+id\in \mathbb{C}$, $c,d\in \mathbb{R}$
+$C=[a_{jk}]_{m\times n}$, $a_{jk}=c+id\in \mathbb{C}$, $c,d\in \mathbb{R}$
 where,
 $i$ is the imaginary unit,
 $j\in[1,m]$, $k\in[1,n]$ 

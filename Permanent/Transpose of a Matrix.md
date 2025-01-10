@@ -32,6 +32,7 @@ $1\leq i\leq n$
 ---
 ### Symmetric Matrix
 $A=A^T$
+
 ---
 ### Skew-symmetric Matrix
 $A=-A^T$

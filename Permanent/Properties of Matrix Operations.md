@@ -33,6 +33,7 @@ bookref:
 17. $(A^{-1})^{-1}=A$
 18. $(\bar{A})^T=\bar{(A^T)}$
 19. $\bar{\bar{A}}=A$
+20. $(AB)^T=B^TA^T$
 
 ---
 ## Examples

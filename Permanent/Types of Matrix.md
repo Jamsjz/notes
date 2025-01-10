@@ -32,10 +32,10 @@ $A_{m\times n}$ where $a_{ij}=0$ if $i\neq j$ and $a_{ij}=1$ when $i=j$.
 $A_{n}$, where $A=kI_{n}$ , k is a scalar.
 
 7. Upper Triangle Matrix
-$A_{m\times n}$ where $a_{ij}=0$ if $i,j<1$
+$A_{m\times n}$ where $a_{ij}=0$ if $i>j$
 
 8. Lower Triangle Matrix
-$A_{m\times n}$ where $a_{ij}=0$ if $i,j>1$
+$A_{m\times n}$ where $a_{ij}=0$ if $i<j$
 
 9. Zero $O$ or $\bar{0}$ Matrix
 $A_{m\times n}$ where $a_{ij}=0$.

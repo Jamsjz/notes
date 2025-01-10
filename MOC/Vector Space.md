@@ -24,8 +24,8 @@ Vector space is a non-empty set $V$, of objects called vectors, which are define
 1. $u + v \in V$
 2. $u + v = v + u$
 3. $(u + v) + w = u + (v + w)$
-4. $\exists \text{ } u \in V : u + 0 = u$
-5. $\forall\text{ } u \in V,\text{ } \exists \text{ } (-u) \in V:u + (-u) = 0$
+4. $\text{ }\exists \text{ } \bar{0} \in V \text{ s.t. } u + \bar{0} = u$
+5. $\exists \text{ } (-u) \in V \text{ s.t. }u + (-u) = 0$
 6. $cu \in V$
 7. $c(u + v) = cu + cv$
 8. $(c + d)u = cu + du$
@@ -36,7 +36,7 @@ Vector space is a non-empty set $V$, of objects called vectors, which are define
 
 By extension of the above axioms:
 1. $0u=0$
-2. $c 0=0$
+2. $c \bar{0}=0$
 3. $-u=(-1)u$
 
 ## Topics in Vector Space.

@@ -20,7 +20,7 @@ It is a very disciplined notion like sets.
 A rectangular arrangement of elements (numbers) into rows and columns.
 
 ## [[Set]] for Matrix
-The set for a matrix of order $m\times n$ is:
+The set for all matrix of order $m\times n$ is:
 $$
 M_{m\times n}(\mathbb{F(\mathbb{R/\mathbb{C}},+,.)})
 $$

@@ -28,7 +28,8 @@ and ~ly, $\bar{y}$.
 1. [[#Addition]]
 2. [[#Scalar Multiplication]]
 3. [[#Subtraction]]
-4. [[#Multiplication]]
+4. [[#Dot Product of Vectors]]
+4. [[#Cross Product of Vectors]]
 
 ---
 ### Addition

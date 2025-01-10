@@ -45,7 +45,7 @@ $$
 0&0&0
 \end{bmatrix}
 $$
-Row Echelon Form
+Reduced Row Echelon Form
 
 ---
 # PTR
