@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c74ba7178c1f829",
+        "id": "2daf86d36c5e0479",
         "type": "tabs",
         "children": [
           {
-            "id": "ee2c86591c6affdb",
+            "id": "006c5561a859f3cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Components of Vector Space.md",
-                "mode": "preview",
+                "file": "Permanent/n-Dimensional Space.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Components of Vector Space"
+              "title": "n-Dimensional Space"
             }
           }
         ]
@@ -218,11 +218,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee2c86591c6affdb",
+  "active": "006c5561a859f3cd",
   "lastOpenFiles": [
-    "MOC/Vector Space.md",
     "Permanent/Span.md",
+    "Templates/Permanent.md",
     "MOC/Components of Vector Space.md",
+    "MOC/Vector Space.md",
     "Permanent/Subspace of a Vector Space.md",
     "Permanent/Algebraic Properties on V_n.md",
     "Permanent/Operations on V_n.md",
@@ -245,7 +246,6 @@
     "Permanent/Abelian Group.md",
     "MOC/Structures or Systems.md",
     "Permanent/Mathematics.md",
-    "Permanent/Limit of a Function.md",
     "Assets/Pasted image 20241224135455.png",
     "Assets/Pasted image 20241224135144.png",
     "Assets/Pasted image 20241224135105.png",
