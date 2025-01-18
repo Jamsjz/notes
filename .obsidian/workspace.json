@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/n-Dimensional Space.md",
-                "mode": "source",
+                "file": "Permanent/Matrix.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n-Dimensional Space"
+              "title": "Matrix"
             }
           }
         ]
@@ -220,11 +220,14 @@
   },
   "active": "006c5561a859f3cd",
   "lastOpenFiles": [
+    "MOC/Vector Space.md",
+    "Permanent/Pointwise Addition.md",
+    "MOC/Functions.md",
     "Permanent/Span.md",
+    "Permanent/Subspace of a Vector Space.md",
+    "Permanent/n-Dimensional Space.md",
     "Templates/Permanent.md",
     "MOC/Components of Vector Space.md",
-    "MOC/Vector Space.md",
-    "Permanent/Subspace of a Vector Space.md",
     "Permanent/Algebraic Properties on V_n.md",
     "Permanent/Operations on V_n.md",
     "Permanent/Mean Value Theorem.md",
@@ -241,11 +244,8 @@
     "Permanent/Types of Matrix.md",
     "Permanent/Complex Matrix.md",
     "Permanent/Matrix.md",
-    "Permanent/n-Dimensional Space.md",
     "Permanent/Mathematical Operations.md",
     "Permanent/Abelian Group.md",
-    "MOC/Structures or Systems.md",
-    "Permanent/Mathematics.md",
     "Assets/Pasted image 20241224135455.png",
     "Assets/Pasted image 20241224135144.png",
     "Assets/Pasted image 20241224135105.png",
