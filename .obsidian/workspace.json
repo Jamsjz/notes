@@ -6,6 +6,7 @@
       {
         "id": "2daf86d36c5e0479",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "006c5561a859f3cd",
@@ -14,11 +15,28 @@
               "type": "markdown",
               "state": {
                 "file": "Permanent/Matrix.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Matrix"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b59f7624ff2f025",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "4ad38110e672dd51",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -77,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ab80d19b861f11b2",
@@ -215,11 +232,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "006c5561a859f3cd",
+  "active": "aaf18bc8a8b90116",
   "lastOpenFiles": [
+    "Permanent/Matrix.md",
+    "highlisghts of nvim.md",
+    "Presentations",
     "MOC/Vector Space.md",
     "Permanent/Pointwise Addition.md",
     "MOC/Functions.md",
@@ -243,9 +264,7 @@
     "Permanent/Equality of Matrices.md",
     "Permanent/Types of Matrix.md",
     "Permanent/Complex Matrix.md",
-    "Permanent/Matrix.md",
     "Permanent/Mathematical Operations.md",
-    "Permanent/Abelian Group.md",
     "Assets/Pasted image 20241224135455.png",
     "Assets/Pasted image 20241224135144.png",
     "Assets/Pasted image 20241224135105.png",

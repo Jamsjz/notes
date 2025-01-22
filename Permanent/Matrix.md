@@ -19,6 +19,7 @@ It is a very disciplined notion like sets.
 > [!abstract] Defination
 A rectangular arrangement of elements (numbers) into rows and columns.
 
+---
 ## [[Set]] for Matrix
 The set for all matrix of order $m\times n$ is:
 $$
