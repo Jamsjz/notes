@@ -3,12 +3,9 @@ title: Recursion
 date: 2024-08-01
 tags:
   - Permanent
-refs:
-  - "[[D&C Algorithms]]"
-  - "[[Algorithms]]"
+refs: []
 netlinks: 
 bookref:
-  - "[[Grokking Algorithms|Grokking Algorithms]]"
 ---
 # Recursion
 
@@ -22,7 +19,7 @@ bookref:
 > important in your situation!
 
 > [!note] 
-Each call to a function is held in [[Permanent/Stack|Stack]] is called a call stack.
+Each call to a function is held in stack is called a call stack.
 
 > [!example]
 ```python
@@ -37,10 +34,6 @@ def fact(n):
 	else:
 		return n * fact(n-1)
 ```
-
-> [!seealso] 
-> [[Permanent/Divide and Conquer|Divide and Conquer]]
-> [[Permanent/Euclid's Algorithm|Euclid's Algorithm]]
 
 ---
 

@@ -12,18 +12,15 @@ bookref:
 
 ---
 ## Theory
-A [[Set]] $A$ of n-tuples is said to be a subspace of $V_{n}$ if it follows the following [[Mathematical Axioms]]:
-
-1. $A\subset V_{n}$
-for $u,v\in A$,
-2. addition is defined on $A$.(closure)
+A non-empty [[Subset|subset]] $A$ of [[Vector Space]] $V$ is said to be a subspace of $V$ if the following axioms hold $\forall u,v\in A$:
+1. addition is defined on $A$.(Additive Closure)
 	$u+v\in A$
-1. scalar multiplication is defined on $A$.(closure)
+2. scalar multiplication is defined on $A$.(Multiplicative Closure)
 	for a scalar c, $cu\in A$.
-1. $\bar{0}$ exists in A. 
+3. $\bar{0}$ exists in A. 
 	$\bar{0}\in A$
 
 ---
 # PTR
 
-1. 
+1. Third point is extra since if second is fulfilled then third will be for $c = 0$ .

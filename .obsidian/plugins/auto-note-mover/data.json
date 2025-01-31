@@ -17,6 +17,11 @@
       "folder": "MOC",
       "tag": "#MOC",
       "pattern": ""
+    },
+    {
+      "folder": "Presentations",
+      "tag": "#ppt",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

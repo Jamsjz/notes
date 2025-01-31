@@ -14,10 +14,9 @@ bookref:
 > Span to make it beautiful
 ---
 ## Theory
-Let $V_{n}$ be a [[Vector Space]] over a [[Mathematical Field|field]] $\mathbb{F}$, and let
-$S$ be a non-empty [[Subset]] of $V_{n}$ such that $n_{o}(S)=a$.
+Let $V$ be a [[Vector Space]] over a [[Mathematical Field|field]] $\mathbb{F}$, and let $S$ be a non-empty [[Subset|subset]] of $V$ such that $n_{o}(S)=a$ where a is a finite number.
 
-The span of $S$, denoted as span$(S)$, is the set of all possible [[Linear Combination of Vectors]] in $S$ and is defined as:
+The span of $S$, denoted as span$(S)$ or $[S]$, is the set of all possible finite [[Linear Combination of Vectors]] in $S$ and is defined as:
 $$
 span(S) = \{
 \bar{x}:\bar{x}=c_{1}v_{1}+c_{2}v_{2}+\dots+c_{a}v_{a}
@@ -25,6 +24,16 @@ span(S) = \{
 \}
 $$
 where $c_{i}$ are scalars from the field $\mathbb{F}$, and $n$ is any non-negative integer.
+
+---
+## Facts
+1. $[S]$ is a subspace of $V$.
+2. $S\subset[S]\subset V$
+---
+## Example
+$S=\{(1,0),(0,1)\}$
+$[S]= span(\{(1,0),(0,1)\})=\{\bar{x}:\bar{x}=c_{1}(0,1)+c_{2}(1,0)\text{ }|\text{ }c_{1},c_{2}\in \mathbb{R}\}$
+$V=\{\bar{x}:\bar{x}=(x_{1},x_{2})\text{ }|\text{ }x_{1},x_{2}\in \mathbb{R}\}$ 
 
 ---
 # PTR

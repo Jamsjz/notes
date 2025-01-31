@@ -6,5 +6,9 @@
   "obsidian-minimal-settings",
   "omnisearch",
   "templater-obsidian",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-tikzjax",
+  "arrows-in-md",
+  "textanalysis",
+  "tree-search"
 ]
