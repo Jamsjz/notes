@@ -11,12 +11,13 @@ refs:
 list from [[]] and !outgoing([[]])
 ```
 ---
-Integration of a function $f(x)$ is defined under definite and undefinite intervals.
-1. [[Definite Integration]]
-2. [[Undefinite Integration]]
+Integration of a function $f(x)$ is defined under definite and indefinite intervals.
+1. [[Definite Integrals]]
+2. [[Indefinite Integrals]]
 
 ### Graphical Meaning of integration.
 Integration is area under the curve bounded by a specific axis for a given interval in that particular axis.
+
 ```desmos-graph
 y=x
 x=1|y<1|y>0

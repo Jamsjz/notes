@@ -3,15 +3,17 @@ title: Data Science Life Cycle
 date: 2024-12-23
 tags:
   - MOC
-refs: 
+refs:
 netlinks:
   - https://www.sudeep.co/data-science/2018/02/09/Understanding-the-Data-Science-Lifecycle.html
 ---
+
 # Data Science Life Cycle
 
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
+
 Data Science deals with a problem. Every time we deal with data, there is some objectives to be fulfilled. To fulfill those objectives, there is a common procedure we follow in data science.
 
 ![[Pasted image 20241223134146.png]]
@@ -96,5 +98,5 @@ Again, this is a topic that could be a blog post on its own, so instead of divin
 
 Phew. Now that you’ve gone through the entire life-cycle, it’s time to go back to the drawing board. Remember, this is a _cycle_, and so it’s an iterative process. This is where you evaluate how the success of your model relates to your original business understanding. Does it tackle the problems identified? Does the analysis yield any tangible solutions? If you encountered any new insights during the first iteration of the life-cycle (and I assure you that you will), you can now infuse that knowledge into the next iteration to generate even more powerful insights, and unleash the power of data to derive phenomenal results for your business or project.
 
-
 ---
+

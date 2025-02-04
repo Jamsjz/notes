@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "700968380af3d0ff",
+        "id": "c447bf67fc43f498",
         "type": "tabs",
         "children": [
           {
-            "id": "7752c3b441b73f18",
+            "id": "5a8f9f54945ac3d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentations/Integrals.md",
+                "file": "MOC/Integration of a Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrals"
+              "title": "Integration of a Function"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,10 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentations/Integrals.md"
+                "file": "MOC/Integration of a Function.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integrals"
+              "title": "Outline of Integration of a Function"
             }
           },
           {
@@ -125,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Presentations/Integrals.md",
+                "file": "MOC/Integration of a Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,12 +152,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4739129736210441,
+                  "scale": 0.2668308138944996,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Integrals"
+              "title": "Graph of Integration of a Function"
             }
           }
         ]
@@ -182,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/Integrals.md",
+                "file": "MOC/Integration of a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Integrals"
+              "title": "Backlinks for Integration of a Function"
             }
           }
         ],
@@ -216,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
+    "width": 377.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -233,8 +237,22 @@
       "textanalysis:Text Analysis": false
     }
   },
-  "active": "7752c3b441b73f18",
+  "active": "5a8f9f54945ac3d8",
   "lastOpenFiles": [
+    "Presentations/Integrals.md",
+    "Permanent/L'Hopital's Rule.md",
+    "MOC/Derivative of a Function.md",
+    "Permanent/Indeterminate Forms.md",
+    "Permanent/Difference Quotient of a Function.md",
+    "Permanent/Tangent of a Curve.md",
+    "Permanent/Fermat's Theorem.md",
+    "MOC/Data Science Life Cycle.md",
+    "Assets/Pasted image 20250131174532.png",
+    "MOC/Data Visualization.md",
+    "Permanent/Visualization Aesthetic.md",
+    "Assets/Pasted image 20250131174239.png",
+    "Assets/Pasted image 20250131174209.png",
+    "Assets/Pasted image 20250131173247.png",
     "Assets/GenScene_ManimCE_v0.18.1.gif",
     "Permanent/Transformation.md",
     "Data Transformation.md",
@@ -250,27 +268,13 @@
     "Permanent/n-Dimensional Space.md",
     "Permanent/Recursion.md",
     "Assets/Pasted image 20241212221605.png",
-    "Presentations/Integrals.md",
     "Templates/ppt.md",
     "Permanent/Matrix.md",
     "highlisghts of nvim.md",
     "Presentations",
-    "Permanent/Pointwise Addition.md",
-    "MOC/Functions.md",
-    "Permanent/Mean Value Theorem.md",
-    "Permanent/Rolle's Theorem.md",
-    "Permanent/Transpose of a Matrix.md",
-    "Permanent/Row Reduction Method.md",
-    "MOC/Operations on Matrices.md",
-    "Permanent/Properties of Matrix Operations.md",
     "Assets/Pasted image 20241224135455.png",
     "Assets/Pasted image 20241224135144.png",
     "Assets/Pasted image 20241224135105.png",
-    "Assets/Pasted image 20241224134956.png",
-    "Assets/Pasted image 20241224134925.png",
-    "Assets/Pasted image 20241224134908.png",
-    "Assets/Pasted image 20241224134148.png",
-    "Assets/Pasted image 20241224134126.png",
-    "Assets/Pasted image 20241224133432.png"
+    "Assets/Pasted image 20241224134956.png"
   ]
 }
