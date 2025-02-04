@@ -99,4 +99,3 @@ Again, this is a topic that could be a blog post on its own, so instead of divin
 Phew. Now that you’ve gone through the entire life-cycle, it’s time to go back to the drawing board. Remember, this is a _cycle_, and so it’s an iterative process. This is where you evaluate how the success of your model relates to your original business understanding. Does it tackle the problems identified? Does the analysis yield any tangible solutions? If you encountered any new insights during the first iteration of the life-cycle (and I assure you that you will), you can now infuse that knowledge into the next iteration to generate even more powerful insights, and unleash the power of data to derive phenomenal results for your business or project.
 
 ---
-
