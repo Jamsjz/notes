@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c447bf67fc43f498",
+        "id": "f28b459f5cc8d8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8f9f54945ac3d8",
+            "id": "45ce659ae67be329",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,7 @@
       {
         "id": "23aeedbc9300b579",
         "type": "tabs",
+        "dimension": 45.1271186440678,
         "children": [
           {
             "id": "aaf18bc8a8b90116",
@@ -63,23 +64,46 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "86b3ee7883a09df1",
+        "type": "tabs",
+        "dimension": 33.686440677966104,
+        "children": [
           {
-            "id": "7ef8c25eeb8c7568",
+            "id": "794fa69210848f2b",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d72037a1947e4c21",
+        "type": "tabs",
+        "dimension": 21.1864406779661,
+        "children": [
+          {
+            "id": "3aea5fe449c8f7e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 260.51103591918945
   },
   "right": {
     "id": "ab80d19b861f11b2",
@@ -111,13 +135,26 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "775fe86632c38540",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7e495854e14a8834",
@@ -172,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/DSMA-111 Introduction to Data Science.md",
+                "file": "MOC/Integration of a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DSMA-111 Introduction to Data Science"
+              "title": "Outgoing links from Integration of a Function"
             }
           },
           {
@@ -201,27 +238,10 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "3e37c3d9bb1606c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0a8dcbd1ad024817",
-            "type": "leaf",
-            "state": {
-              "type": "textanalysis-view",
-              "state": {},
-              "icon": "eye",
-              "title": "Text Analysis"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,47 +254,52 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "textanalysis:Text Analysis": false
+      "textanalysis:Text Analysis": false,
+      "khoj:Khoj": false,
+      "recent-notes:Recent notes": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8f9f54945ac3d8",
+  "active": "45ce659ae67be329",
   "lastOpenFiles": [
+    "Permanent/Average Value of a Function.md",
+    "MOC/Integration of a Function.md",
+    "Assets/img/GenScene_ManimCE_v0.18.1.gif",
+    "Assets/img",
+    "Assets/img",
+    "Assets/pdf",
+    "MOC/DSMA-115 Calculus-1.md",
+    "MOC/Derivative of a Function.md",
+    "Permanent/Fundamental Theorem of Calculus.md",
+    "Permanent/Indefinite Integrals.md",
+    "Permanent/Difference Between Integrals and Antiderivative.md",
+    "Permanent/Fundamental Theorem of Calculus - Part 2.md",
+    "Permanent/Fundamental Theorem of Calculus - Part 1.md",
+    "Permanent/Graphical Interpretation of integration.md",
+    "Assets/img/Pasted_image_20241223134146.png",
     "Presentations/Integrals.md",
     "Permanent/L'Hopital's Rule.md",
-    "MOC/Derivative of a Function.md",
     "Permanent/Indeterminate Forms.md",
     "Permanent/Difference Quotient of a Function.md",
     "Permanent/Tangent of a Curve.md",
     "Permanent/Fermat's Theorem.md",
     "MOC/Data Science Life Cycle.md",
-    "Assets/Pasted image 20250131174532.png",
+    "Assets/img/Pasted image 20250131174532.png",
     "MOC/Data Visualization.md",
     "Permanent/Visualization Aesthetic.md",
-    "Assets/Pasted image 20250131174239.png",
-    "Assets/Pasted image 20250131174209.png",
-    "Assets/Pasted image 20250131173247.png",
-    "Assets/GenScene_ManimCE_v0.18.1.gif",
+    "Assets/img/Pasted image 20250131174239.png",
+    "Assets/img/Pasted image 20250131174209.png",
+    "Assets/img/Pasted image 20250131173247.png",
     "Permanent/Transformation.md",
     "Data Transformation.md",
     "Templates/Permanent.md",
     "MOC/Components of Vector Space.md",
     "Permanent/Basis.md",
     "Permanent/Span.md",
-    "Permanent/Subspace of a Vector Space.md",
-    "Untitled.md",
-    "MOC/Vector Space.md",
-    "Permanent/Algebraic Properties on V_n.md",
-    "Permanent/Operations on V_n.md",
-    "Permanent/n-Dimensional Space.md",
-    "Permanent/Recursion.md",
-    "Assets/Pasted image 20241212221605.png",
-    "Templates/ppt.md",
-    "Permanent/Matrix.md",
-    "highlisghts of nvim.md",
+    "Assets/img/Pasted image 20241212221605.png",
     "Presentations",
-    "Assets/Pasted image 20241224135455.png",
-    "Assets/Pasted image 20241224135144.png",
-    "Assets/Pasted image 20241224135105.png",
-    "Assets/Pasted image 20241224134956.png"
+    "Assets/img/Pasted image 20241224135455.png",
+    "Assets/img/Pasted image 20241224135144.png",
+    "Assets/img/Pasted image 20241224135105.png"
   ]
 }

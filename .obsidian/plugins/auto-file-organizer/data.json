@@ -1,0 +1,20 @@
+{
+  "tagEnabled": false,
+  "extensionEnabled": true,
+  "priority": "tag",
+  "folderMapping": {
+    "pdf": "Assets/pdf",
+    "png": "Assets/img",
+    "gif": "Assets/img",
+    "jpg": "Assets/img",
+    "svg": "Assets/img"
+  },
+  "tagMapping": {
+    "#Permanent": "Permanent",
+    "#MOC": "MOC",
+    "#ppt": "Presentations"
+  },
+  "blackList": {
+    "Templates": "Templates"
+  }
+}

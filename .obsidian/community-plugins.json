@@ -1,5 +1,4 @@
 [
-  "auto-note-mover",
   "obsidian-latex-suite",
   "dataview",
   "obsidian-desmos",
@@ -7,8 +6,14 @@
   "omnisearch",
   "templater-obsidian",
   "obsidian-advanced-slides",
-  "obsidian-tikzjax",
   "arrows-in-md",
-  "textanalysis",
-  "tree-search"
+  "tree-search",
+  "mini-vimrc",
+  "graphs",
+  "callout-toggles",
+  "auto-file-organizer",
+  "recent-files-obsidian",
+  "calendar",
+  "vim-yank-highlight",
+  "obsidian-git"
 ]

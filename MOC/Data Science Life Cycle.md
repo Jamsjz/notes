@@ -16,7 +16,7 @@ list from [[]] and !outgoing([[]])
 
 Data Science deals with a problem. Every time we deal with data, there is some objectives to be fulfilled. To fulfill those objectives, there is a common procedure we follow in data science.
 
-![[Pasted image 20241223134146.png]]
+![[Pasted_image_20241223134146.png]]
 
 ### 1. [[Business Understanding]]
 

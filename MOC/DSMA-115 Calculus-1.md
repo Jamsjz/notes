@@ -15,5 +15,7 @@ list from [[]] and !outgoing([[]])
 
 - [[Functions]]
 - [[Limit and Continuity]]
+- [[Derivative of a Function]]
+- [[Integration of a Function]]
 
 ---
