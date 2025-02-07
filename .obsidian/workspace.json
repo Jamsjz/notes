@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/Linearity of a Transformation.md",
+                "file": "Permanent/Differentiability of a Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearity of a Transformation"
+              "title": "Differentiability of a Function"
             }
           }
         ]
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent/Linearity of a Transformation.md",
+                "file": "Permanent/Differentiability of a Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linearity of a Transformation"
+              "title": "Outline of Differentiability of a Function"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/Linearity of a Transformation.md",
+                "file": "Permanent/Differentiability of a Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linearity of a Transformation"
+              "title": "Graph of Differentiability of a Function"
             }
           }
         ]
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Linearity of a Transformation.md",
+                "file": "Permanent/Differentiability of a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linearity of a Transformation"
+              "title": "Backlinks for Differentiability of a Function"
             }
           }
         ],
@@ -260,8 +260,9 @@
   },
   "active": "45ce659ae67be329",
   "lastOpenFiles": [
-    "Permanent/Transformation.md",
+    "Permanent/L'Hopital's Rule.md",
     "Permanent/Linearity of a Transformation.md",
+    "Permanent/Transformation.md",
     "MOC/Integration of a Function.md",
     "Permanent/Fundamental Theorem of Calculus.md",
     "Permanent/Fundamental Theorem of Calculus - Part 1.md",
@@ -279,7 +280,6 @@
     "Permanent/Fundamental Theorem of Calculus - Part 2.md",
     "Assets/img/Pasted_image_20241223134146.png",
     "Presentations/Integrals.md",
-    "Permanent/L'Hopital's Rule.md",
     "Permanent/Indeterminate Forms.md",
     "Permanent/Difference Quotient of a Function.md",
     "Permanent/Tangent of a Curve.md",
