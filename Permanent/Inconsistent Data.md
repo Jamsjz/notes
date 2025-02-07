@@ -2,16 +2,21 @@
 title: Inconsistent Data
 date: 2024-12-28
 tags: Permanent
-refs: 
+refs:
 netlinks:
-bookref: 
+bookref:
 ---
+
 # Inconsistent Data
+
 ==2024-12-28==
 
 ---
+
 > Be consistent not inconsistent!
+
 ---
+
 ## Theory
 
 **Inconsistent data** refers to data that contradicts itself or does not follow a uniform format across different records or datasets. This inconsistency may arise from errors during data entry, different data formats being used, or discrepancies in how data is stored or reported.
@@ -19,7 +24,9 @@ bookref:
 Inconsistent data can lead to problems in data analysis, decision-making, and system performance. It is important to address data inconsistency to maintain the quality and reliability of the dataset.
 
 ---
+
 ## Examples
+
 The table below illustrates various examples of inconsistent data, showing how discrepancies can appear in different fields.
 
 | **Field**          | **Inconsistent Data**                                    | **Correct Data**          | **Explanation**                                                            |
@@ -32,21 +39,17 @@ The table below illustrates various examples of inconsistent data, showing how d
 | **Address**        | `Not Provided` vs `123 Street Name`                      | `123 Street Name`         | Missing or incomplete values should be handled consistently.               |
 | **Phone Number**   | `555-1234`, `555 1234`, `555.1234`                       | `555-1234`                | Standardize the phone number format (e.g., hyphens for separators).        |
 
-
-
 ---
+
 ## Implementation
 
-
-
-
 ---
+
 ## Q&A
 
-
-
-
 ---
+
 # PTR
 
-1. 
+1.
+
