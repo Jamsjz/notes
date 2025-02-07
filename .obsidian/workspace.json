@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linearity of a Transformation.md",
+                "file": "Permanent/Linearity of a Transformation.md",
                 "mode": "source",
                 "source": false
               },
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Integration of a Function.md",
+                "file": "Permanent/Linearity of a Transformation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integration of a Function"
+              "title": "Outline of Linearity of a Transformation"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC/Integration of a Function.md",
+                "file": "Permanent/Linearity of a Transformation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Integration of a Function"
+              "title": "Graph of Linearity of a Transformation"
             }
           }
         ]
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/Integration of a Function.md",
+                "file": "Permanent/Linearity of a Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Integration of a Function"
+              "title": "Backlinks for Linearity of a Transformation"
             }
           }
         ],
@@ -261,11 +261,11 @@
   "active": "45ce659ae67be329",
   "lastOpenFiles": [
     "Permanent/Transformation.md",
-    "Linearity of a Transformation.md",
+    "Permanent/Linearity of a Transformation.md",
     "MOC/Integration of a Function.md",
     "Permanent/Fundamental Theorem of Calculus.md",
     "Permanent/Fundamental Theorem of Calculus - Part 1.md",
-    "Applications of Integration.md",
+    "MOC/Applications of Integration.md",
     "Permanent/Graphical Interpretation of Integration.md",
     "Permanent/Average Value of a Function.md",
     "Assets/img/GenScene_ManimCE_v0.18.1.gif",
@@ -292,7 +292,7 @@
     "Assets/img/Pasted image 20250131174209.png",
     "Assets/img/Pasted image 20250131173247.png",
     "Data Transformation.md",
-    "Templates/Permanent.md",
+    "Permanent/Permanent.md",
     "MOC/Components of Vector Space.md",
     "Permanent/Basis.md",
     "Assets/img/Pasted image 20241212221605.png",
