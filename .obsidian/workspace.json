@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Integration of a Function.md",
+                "file": "Linearity of a Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration of a Function"
+              "title": "Linearity of a Transformation"
             }
           }
         ]
@@ -64,6 +64,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "eb2678ac63c4c63f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       },
@@ -87,7 +97,7 @@
       {
         "id": "d72037a1947e4c21",
         "type": "tabs",
-        "dimension": 21.1864406779661,
+        "dimension": 21.186440677966104,
         "children": [
           {
             "id": "3aea5fe449c8f7e7",
@@ -103,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945
+    "width": 260.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ab80d19b861f11b2",
@@ -142,19 +153,8 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "775fe86632c38540",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7e495854e14a8834",
@@ -241,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,28 +255,28 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "textanalysis:Text Analysis": false,
-      "khoj:Khoj": false,
-      "recent-notes:Recent notes": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "45ce659ae67be329",
   "lastOpenFiles": [
-    "Permanent/Average Value of a Function.md",
+    "Permanent/Transformation.md",
+    "Linearity of a Transformation.md",
     "MOC/Integration of a Function.md",
+    "Permanent/Fundamental Theorem of Calculus.md",
+    "Permanent/Fundamental Theorem of Calculus - Part 1.md",
+    "Applications of Integration.md",
+    "Permanent/Graphical Interpretation of Integration.md",
+    "Permanent/Average Value of a Function.md",
     "Assets/img/GenScene_ManimCE_v0.18.1.gif",
     "Assets/img",
     "Assets/img",
     "Assets/pdf",
     "MOC/DSMA-115 Calculus-1.md",
     "MOC/Derivative of a Function.md",
-    "Permanent/Fundamental Theorem of Calculus.md",
     "Permanent/Indefinite Integrals.md",
     "Permanent/Difference Between Integrals and Antiderivative.md",
     "Permanent/Fundamental Theorem of Calculus - Part 2.md",
-    "Permanent/Fundamental Theorem of Calculus - Part 1.md",
-    "Permanent/Graphical Interpretation of integration.md",
     "Assets/img/Pasted_image_20241223134146.png",
     "Presentations/Integrals.md",
     "Permanent/L'Hopital's Rule.md",
@@ -290,12 +291,10 @@
     "Assets/img/Pasted image 20250131174239.png",
     "Assets/img/Pasted image 20250131174209.png",
     "Assets/img/Pasted image 20250131173247.png",
-    "Permanent/Transformation.md",
     "Data Transformation.md",
     "Templates/Permanent.md",
     "MOC/Components of Vector Space.md",
     "Permanent/Basis.md",
-    "Permanent/Span.md",
     "Assets/img/Pasted image 20241212221605.png",
     "Presentations",
     "Assets/img/Pasted image 20241224135455.png",

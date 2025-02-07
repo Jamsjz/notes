@@ -10,19 +10,39 @@ refs:
 list from [[]] and !outgoing([[]])
 ```
 ---
-Integration of a [[Functions]] $f(x)$ is of two types.
-1. [[Definite Integrals]]
-	1. [[Proper Integrals]]
-	2. [[Improper Integrals]]
-		1. [[Improper Integrals: Type 1]]
-		2. [[Improper Integrals: Type 2]]
-2. [[Indefinite Integrals]]
-The relation between integration and derivative is given in
-[[Fundamental Theorem of Calculus]]. Using it we can find the
-[[Average Value of a Function]].
+# Integration of Functions
 
-See [[Graphical Interpretation of integration]].
-We can not only find the Area under the curve with integration but also the length
-of the curve of the function.
+## Types of Integration
+1. [[Definite Integrals]]
+    - ### [[Proper Integrals]]
+        - Definition and properties
+        - Examples of proper integrals
+        - Applications of proper integrals
+    - ### [[Improper Integrals]]
+        1. [[Improper Integrals: Type 1]]
+            - Definition and characteristics
+            - Convergence and divergence
+            - Examples and applications
+        2. [[Improper Integrals: Type 2]]
+            - Definition and characteristics
+            - Convergence and divergence
+            - Examples and applications
+
+2. [[Indefinite Integrals]]
+    - Definition and properties
+    - Techniques of integration (substitution, integration by parts, etc.)
+    - Examples of indefinite integrals
+
+## [[Fundamental Theorem of Calculus]]
+- Statement of the theorem
+- Relationship between integration and differentiation
+- Applications of the fundamental theorem
+
+## [[Graphical Interpretation of Integration]]
+- Area under the curve concept
+- Visualizing definite integrals with graphs
+- Understanding indefinite integrals through antiderivatives
+
+## [[Applications of Integration]]
 
 ---
