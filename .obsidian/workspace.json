@@ -274,8 +274,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7677f07dc57ebc9",
+  "active": "d14830aa1194dd3c",
   "lastOpenFiles": [
+    "export/Integrals/1",
     "export/Integrals/plugin/chart/README.md",
     "export/Integrals/plugin/chart/chart.min.js",
     "export/Integrals/plugin/chart/plugin.js",
