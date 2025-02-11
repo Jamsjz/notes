@@ -1,35 +1,46 @@
-# Integration
 
-> Where ‘sum’ of the parts becomes a ‘whole’ new adventure!
+![[Pasted image 20250211215546.png]]
++ Issac Newton
++ Gottfried Wilhelm Leibniz  
 
 ---
+
+<!-- slide bg="mystery.jpeg" data-background-opacity="0.8" -->
+### $$(a+b)^2=a^2+2ab+b^{2}$$
+
+---
+
 ## Scope
 + Introduction to Integration
-+ Example 1: Relation to Derivative
 + Integration as Limit of Sums
 + Integration as Area: Geometrical Interpretation
-+ Example 2.1: Finding $\int_{0}^{1} xdx$  using Limit of Sums
-+ Example 2.2: Area between two curves
 + Solid of Revolution (SoR)
 + Finding Volume of SoR
 + Disk Method
-+ Example 3.1
-+ Example 3.2
 + Washer Method
-+ Example 4.1
 
 ---
-## Introduction to Integration
 
-+ process of finding the whole ...
-+ by summing up the parts to find the whole.
+![[integraton.png]]
 
 --
+
+![[Pasted image 20250211224910.png]] 
+
+> [!question] How do we calculate total water filled in certain time?
+
+--
+
+> [!tip] Integration:
+> - Integration is the process of finding the total accumulation of a quantity.
+> - It is the reverse process of differentiation (antiderivative).
+
+--
+
 > [!example] Example 1: Relation to Derivative
  > Consider a function $f(x)=\sin(x)$
-  > $$ \implies F(x)=\int \sin(x)dx = F(x)=-\cos(x)$$
+  > $$\implies F(x)=\int \sin(x)dx = F(x)=-\cos(x)$$
   > $$\implies\frac{dF(x)}{dx}=d\frac{-\cos(x)}{dx}=\sin(x)=f(x)$$
- 
 
 ---
 ## Integration as Limit of Sums

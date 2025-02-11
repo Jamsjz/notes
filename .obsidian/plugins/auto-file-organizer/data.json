@@ -1,6 +1,6 @@
 {
   "tagEnabled": true,
-  "extensionEnabled": true,
+  "extensionEnabled": false,
   "priority": "tag",
   "folderMapping": {
     "pdf": "Assets/pdf",
