@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Integrals",
+      "path": "Presentations/Integrals.md"
+    },
+    {
+      "basename": "Pasted image 20250131174209",
+      "path": "Assets/img/Pasted image 20250131174209.png"
+    },
+    {
+      "basename": "Rank of a Matrix",
+      "path": "Permanent/Rank of a Matrix.md"
+    },
+    {
+      "basename": "Rank-Nullity Theorem",
+      "path": "Rank-Nullity Theorem.md"
+    },
+    {
+      "basename": "Kernel of Linear Transformation",
+      "path": "Permanent/Kernel of Linear Transformation.md"
+    },
+    {
+      "basename": "Django",
+      "path": "Permanent/Django.md"
+    },
+    {
+      "basename": "Batteries Included Framework",
+      "path": "Permanent/Batteries Included Framework.md"
+    },
+    {
       "basename": "Differentiability of a Function",
       "path": "Permanent/Differentiability of a Function.md"
     },
