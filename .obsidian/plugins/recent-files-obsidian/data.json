@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Integrals",
-      "path": "Presentations/Integrals.md"
+      "basename": "Rank-Nullity Theorem",
+      "path": "Permanent/Rank-Nullity Theorem.md"
     },
     {
       "basename": "Pasted_image_20241223134146",
@@ -21,16 +21,8 @@
       "path": "Permanent/Rank of a Matrix.md"
     },
     {
-      "basename": "Rank-Nullity Theorem",
-      "path": "Rank-Nullity Theorem.md"
-    },
-    {
       "basename": "Kernel of Linear Transformation",
       "path": "Permanent/Kernel of Linear Transformation.md"
-    },
-    {
-      "basename": "Django",
-      "path": "Permanent/Django.md"
     },
     {
       "basename": "Batteries Included Framework",

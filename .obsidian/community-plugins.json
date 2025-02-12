@@ -15,5 +15,18 @@
   "recent-files-obsidian",
   "calendar",
   "vim-yank-highlight",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-auto-link-title",
+  "obsidian-image-toolkit",
+  "advanced-canvas",
+  "obsidian-prozen",
+  "mathlinks",
+  "mathlive",
+  "obsidian-functionplot",
+  "math-in-callout",
+  "link-favicon",
+  "mrj-jump-to-link",
+  "tabout",
+  "link-with-alias",
+  "quick-preview"
 ]

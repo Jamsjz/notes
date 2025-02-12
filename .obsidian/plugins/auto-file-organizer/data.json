@@ -1,6 +1,6 @@
 {
   "tagEnabled": true,
-  "extensionEnabled": false,
+  "extensionEnabled": true,
   "priority": "tag",
   "folderMapping": {
     "pdf": "Assets/pdf",
@@ -11,8 +11,7 @@
   },
   "tagMapping": {
     "#Permanent": "Permanent",
-    "#MOC": "MOC",
-    "#ppt": "Presentations"
+    "#MOC": "MOC"
   },
   "blackList": {
     "Templates": "Templates"

@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "895f3df91ea40a46",
+        "id": "a13a9ef8da9ba870",
         "type": "tabs",
         "children": [
           {
-            "id": "d14830aa1194dd3c",
+            "id": "9d0d444bb99a7995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentations/Integrals.md",
+                "file": "Permanent/Rank-Nullity Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrals"
-            }
-          }
-        ]
-      },
-      {
-        "id": "da249fc55ce72a8e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7677f07dc57ebc9",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "Rank-Nullity Theorem"
             }
           }
         ]
@@ -129,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945,
-    "collapsed": true
+    "width": 260.51103591918945
   },
   "right": {
     "id": "ab80d19b861f11b2",
@@ -169,8 +152,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "d539401bafe6fa63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7e495854e14a8834",
@@ -182,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/Differentiability of a Function.md",
+                "file": "Permanent/Rank-Nullity Theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Differentiability of a Function"
+              "title": "Graph of Rank-Nullity Theorem"
             }
           }
         ]
@@ -239,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Differentiability of a Function.md",
+                "file": "Permanent/Rank-Nullity Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Differentiability of a Function"
+              "title": "Backlinks for Rank-Nullity Theorem"
             }
           }
         ],
@@ -257,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,42 +264,42 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "voice:Voice": false
     }
   },
-  "active": "d14830aa1194dd3c",
+  "active": "9d0d444bb99a7995",
   "lastOpenFiles": [
-    "export/Integrals/1",
-    "export/Integrals/plugin/chart/README.md",
-    "export/Integrals/plugin/chart/chart.min.js",
-    "export/Integrals/plugin/chart/plugin.js",
-    "export/Integrals/plugin/chart",
-    "Assets/Pasted image 20250211224910.png",
-    "Assets/img/integraton.png",
-    "Presentations/integraton.jpeg",
-    "Presentations/integraton.png",
+    "Permanent/Django.md",
     "Presentations/Integrals.md",
-    "Assets/img/integraton.jpeg",
-    "Presentations/Pasted image.png",
-    "Assets/img/Pasted image.png",
-    "Presentations/mystery.jpeg",
-    "Assets/img/Pasted_image_20241223134146.png",
-    "Assets/img/Pasted image 20241212221605.png",
-    "export/Integrals/Assets/img",
-    "export/Integrals/Assets",
     "export/Integrals/plugin/chalkboard/README.md",
     "export/Integrals/plugin/chalkboard/_style.css",
+    "export/Integrals/plugin/chalkboard/img/blackboard.png",
+    "export/Integrals/plugin/chalkboard/img/boardmarker-black.png",
+    "export/Integrals/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/Integrals/plugin/chalkboard/img/boardmarker-green.png",
+    "export/Integrals/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/Integrals/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/Integrals/plugin/chalkboard/img/boardmarker-red.png",
+    "export/Integrals/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/Integrals/plugin/chalkboard/img/chalk-blue.png",
+    "export/Integrals/plugin/chalkboard/img/chalk-green.png",
     "export/Integrals/plugin/chalkboard/img",
+    "export/Integrals/plugin/chalkboard/plugin (copy).js",
     "export/Integrals/plugin/chalkboard/style.css",
     "export/Integrals/plugin/chalkboard/plugin.js",
-    "export/Integrals/plugin/chalkboard/plugin (copy).js",
+    "export/Integrals/plugin/chalkboard",
+    "export/Integrals/plugin/chart/plugin.js",
+    "export/Integrals/plugin/chart/chart.min.js",
+    "export/Integrals/plugin/chart/README.md",
+    "export/Integrals/plugin/chart",
     "export/Integrals/plugin/customcontrols/README.md",
+    "export/Integrals/plugin/customcontrols/plugin.js",
     "export/Integrals/plugin/menu/CONTRIBUTING.md",
     "export/Integrals/plugin/menu/README.md",
     "Permanent/Rank of a Matrix.md",
-    "Rank-Nullity Theorem.md",
+    "Permanent/Rank-Nullity Theorem.md",
     "Permanent/Kernel of Linear Transformation.md",
-    "Permanent/Django.md",
     "Permanent/Batteries Included Framework.md",
     "Permanent/Differentiability of a Function.md",
     "Permanent/L'Hopital's Rule.md",
