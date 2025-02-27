@@ -19,7 +19,6 @@
   "obsidian-auto-link-title",
   "obsidian-image-toolkit",
   "advanced-canvas",
-  "obsidian-prozen",
   "mathlinks",
   "mathlive",
   "obsidian-functionplot",
@@ -28,5 +27,8 @@
   "mrj-jump-to-link",
   "tabout",
   "link-with-alias",
-  "quick-preview"
+  "quick-preview",
+  "link-exploder",
+  "edit-in-neovim",
+  "obsidian-style-settings"
 ]

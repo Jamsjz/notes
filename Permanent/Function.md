@@ -21,6 +21,7 @@ status: false
 > [!important]
 > Given a relation f: X -> Y, if For every element x: x $\in$ X, there exists a unique y $\in$ Y such that f(x) = y.
 
+
 ---
 # PTR
 

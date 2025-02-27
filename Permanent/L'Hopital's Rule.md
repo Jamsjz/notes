@@ -6,7 +6,6 @@ refs:
 netlinks:
 bookref:
 ---
-
 # L'Hopital's Rule
 
 ==2025-02-03==

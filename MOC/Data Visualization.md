@@ -73,11 +73,14 @@ The common visualizations are:
 12. [[Scatter Plot]]
 13. [[Line Plot]]
 14. [[Probability Distribution]]
-15. [[Data Maps]]
-
----
-
-## Q&A
+15. [[Probability Distribution Function]]
+16. [[Data Maps]]
+17. [[Q-Q Plot]]
+18. [[Prob Plot]]
+19. [[Cumulative Distribution]]
+20. [[Cumulative Distribution Function]]
+21. [[Correlation Heatmap]]
+22. [[Heatmap]]
 
 ---
 

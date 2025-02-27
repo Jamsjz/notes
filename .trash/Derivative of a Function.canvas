@@ -1,0 +1,413 @@
+{
+  "edges": [
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Tangent of a Curve.md",
+      "toNode": "Permanent/Tangent of a Curve.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Tangent of a Curve.md",
+      "fromSide": "right",
+      "id": "Permanent/Tangent of a Curve.md-Assets/img/Pasted image 20241212221605.png",
+      "toNode": "Assets/img/Pasted image 20241212221605.png",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Tangent of a Curve.md",
+      "fromSide": "right",
+      "id": "Permanent/Tangent of a Curve.md-Assets/img/Pasted image 20241212222026.png",
+      "toNode": "Assets/img/Pasted image 20241212222026.png",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Difference Quotient of a Function.md",
+      "toNode": "Permanent/Difference Quotient of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Difference Quotient of a Function.md",
+      "fromSide": "right",
+      "id": "Permanent/Difference Quotient of a Function.md-Assets/img/Pasted image 20241212221605.png",
+      "toNode": "Assets/img/Pasted image 20241212221605.png",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Function.md",
+      "toNode": "Permanent/Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Function.md",
+      "fromSide": "right",
+      "id": "Permanent/Function.md-MOC/Functions.md",
+      "toNode": "MOC/Functions.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Function.md",
+      "fromSide": "right",
+      "id": "Permanent/Function.md-Permanent/Domain.md",
+      "toNode": "Permanent/Domain.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Function.md",
+      "fromSide": "right",
+      "id": "Permanent/Function.md-Permanent/Range.md",
+      "toNode": "Permanent/Range.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Differentiability of a Function.md",
+      "toNode": "Permanent/Differentiability of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Extremas of a Function.md",
+      "toNode": "Permanent/Extremas of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Extremas of a Function.md",
+      "fromSide": "right",
+      "id": "Permanent/Extremas of a Function.md-Permanent/Fermat's Theorem.md",
+      "toNode": "Permanent/Fermat's Theorem.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Extremas of a Function.md",
+      "fromSide": "right",
+      "id": "Permanent/Extremas of a Function.md-MOC/Derivative of a Function.md",
+      "toNode": "MOC/Derivative of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Intervals of Function Increase or Decrease.md",
+      "toNode": "Permanent/Intervals of Function Increase or Decrease.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Concavity of a Function.md",
+      "toNode": "Permanent/Concavity of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Concavity of a Function.md",
+      "fromSide": "right",
+      "id": "Permanent/Concavity of a Function.md-Assets/img/Pasted image 20241214152359.png",
+      "toNode": "Assets/img/Pasted image 20241214152359.png",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Monotonicity of a Function.md",
+      "toNode": "Permanent/Monotonicity of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Indeterminate Forms.md",
+      "toNode": "Permanent/Indeterminate Forms.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Indeterminate Forms.md",
+      "fromSide": "right",
+      "id": "Permanent/Indeterminate Forms.md-Permanent/L'Hopital's Rule.md",
+      "toNode": "Permanent/L'Hopital's Rule.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/Derivative of a Function.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/L'Hopital's Rule.md",
+      "toNode": "Permanent/L'Hopital's Rule.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/L'Hopital's Rule.md",
+      "fromSide": "right",
+      "id": "Permanent/L'Hopital's Rule.md-MOC/Functions.md",
+      "toNode": "MOC/Functions.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/L'Hopital's Rule.md",
+      "fromSide": "right",
+      "id": "Permanent/L'Hopital's Rule.md-Permanent/Differentiability of a Function.md",
+      "toNode": "Permanent/Differentiability of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/L'Hopital's Rule.md",
+      "fromSide": "right",
+      "id": "Permanent/L'Hopital's Rule.md-Permanent/Continuity.md",
+      "toNode": "Permanent/Continuity.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "MOC/DSMA-115 Calculus-1.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-MOC/DSMA-115 Calculus-1.md",
+      "toNode": "MOC/Derivative of a Function.md",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "Permanent/Mean Value Theorem.md",
+      "fromSide": "right",
+      "id": "MOC/Derivative of a Function.md-Permanent/Mean Value Theorem.md",
+      "toNode": "MOC/Derivative of a Function.md",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "file": "MOC/Derivative of a Function.md",
+      "height": 500,
+      "id": "MOC/Derivative of a Function.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 0,
+      "y": 3600
+    },
+    {
+      "file": "Permanent/Tangent of a Curve.md",
+      "height": 500,
+      "id": "Permanent/Tangent of a Curve.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 300
+    },
+    {
+      "file": "Assets/img/Pasted image 20241212222026.png",
+      "height": 451,
+      "id": "Assets/img/Pasted image 20241212222026.png",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 600
+    },
+    {
+      "file": "Permanent/Difference Quotient of a Function.md",
+      "height": 500,
+      "id": "Permanent/Difference Quotient of a Function.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 1200
+    },
+    {
+      "file": "Permanent/Function.md",
+      "height": 500,
+      "id": "Permanent/Function.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 2400
+    },
+    {
+      "file": "MOC/Functions.md",
+      "height": 500,
+      "id": "MOC/Functions.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 1800
+    },
+    {
+      "file": "Permanent/Domain.md",
+      "height": 500,
+      "id": "Permanent/Domain.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 2400
+    },
+    {
+      "file": "Permanent/Range.md",
+      "height": 500,
+      "id": "Permanent/Range.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 3000
+    },
+    {
+      "file": "Permanent/Differentiability of a Function.md",
+      "height": 500,
+      "id": "Permanent/Differentiability of a Function.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 3600
+    },
+    {
+      "file": "Permanent/Extremas of a Function.md",
+      "height": 500,
+      "id": "Permanent/Extremas of a Function.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 4200
+    },
+    {
+      "file": "Permanent/Fermat's Theorem.md",
+      "height": 500,
+      "id": "Permanent/Fermat's Theorem.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 4200
+    },
+    {
+      "file": "Permanent/Intervals of Function Increase or Decrease.md",
+      "height": 500,
+      "id": "Permanent/Intervals of Function Increase or Decrease.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 4800
+    },
+    {
+      "file": "Permanent/Concavity of a Function.md",
+      "height": 500,
+      "id": "Permanent/Concavity of a Function.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 5400
+    },
+    {
+      "file": "Assets/img/Pasted image 20241214152359.png",
+      "height": 250,
+      "id": "Assets/img/Pasted image 20241214152359.png",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 5400
+    },
+    {
+      "file": "Permanent/Monotonicity of a Function.md",
+      "height": 500,
+      "id": "Permanent/Monotonicity of a Function.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 6000
+    },
+    {
+      "file": "Permanent/Indeterminate Forms.md",
+      "height": 500,
+      "id": "Permanent/Indeterminate Forms.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 6600
+    },
+    {
+      "file": "Permanent/L'Hopital's Rule.md",
+      "height": 500,
+      "id": "Permanent/L'Hopital's Rule.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 1000,
+      "y": 7200
+    },
+    {
+      "file": "Permanent/Continuity.md",
+      "height": 500,
+      "id": "Permanent/Continuity.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 7200
+    },
+    {
+      "file": "Assets/img/Pasted image 20241212221605.png",
+      "height": 469,
+      "id": "Assets/img/Pasted image 20241212221605.png",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": 2000,
+      "y": 0
+    },
+    {
+      "file": "Permanent/Mean Value Theorem.md",
+      "height": 500,
+      "id": "Permanent/Mean Value Theorem.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": -1020,
+      "y": 4100
+    },
+    {
+      "file": "MOC/DSMA-115 Calculus-1.md",
+      "height": 500,
+      "id": "MOC/DSMA-115 Calculus-1.md",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": -1020,
+      "y": 3350
+    }
+  ]
+}

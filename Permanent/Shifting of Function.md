@@ -37,6 +37,7 @@ For $y=f(x)=x^2$, shiftings:
 >> y=(x+2)^2
 >> ```
 
+
 ---
 # PTR
 

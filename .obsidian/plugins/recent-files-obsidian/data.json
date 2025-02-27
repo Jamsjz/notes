@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Visualization",
+      "path": "MOC/Data Visualization.md"
+    },
+    {
+      "basename": "Rolle's Theorem",
+      "path": "Permanent/Rolle's Theorem.md"
+    },
+    {
+      "basename": "Mean Value Theorem",
+      "path": "Permanent/Mean Value Theorem.md"
+    },
+    {
+      "basename": "Integration of a Function",
+      "path": "MOC/Integration of a Function.md"
+    },
+    {
+      "basename": "Function",
+      "path": "Permanent/Function.md"
+    },
+    {
+      "basename": "Range",
+      "path": "Permanent/Range.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "MOC/Functions.md"
+    },
+    {
+      "basename": "L'Hopital's Rule",
+      "path": "Permanent/L'Hopital's Rule.md"
+    },
+    {
+      "basename": "Shifting of Function",
+      "path": "Permanent/Shifting of Function.md"
+    },
+    {
+      "basename": "Derivative of a Function",
+      "path": "MOC/Derivative of a Function.md"
+    },
+    {
+      "basename": "DSMA-115 Calculus-1",
+      "path": "MOC/DSMA-115 Calculus-1.md"
+    },
+    {
+      "basename": "Pasted image 20241214152359",
+      "path": "Assets/img/Pasted image 20241214152359.png"
+    },
+    {
+      "basename": "Tangent of a Curve",
+      "path": "Permanent/Tangent of a Curve.md"
+    },
+    {
+      "basename": "Pasted image 20241212221605",
+      "path": "Assets/img/Pasted image 20241212221605.png"
+    },
+    {
+      "basename": "Extremas of a Function",
+      "path": "Permanent/Extremas of a Function.md"
+    },
+    {
       "basename": "Rank-Nullity Theorem",
       "path": "Permanent/Rank-Nullity Theorem.md"
     },
     {
       "basename": "Pasted_image_20241223134146",
       "path": "Assets/img/Pasted_image_20241223134146.png"
-    },
-    {
-      "basename": "Pasted image 20241212221605",
-      "path": "Assets/img/Pasted image 20241212221605.png"
     },
     {
       "basename": "Pasted image 20250131174209",
@@ -33,20 +89,12 @@
       "path": "Permanent/Differentiability of a Function.md"
     },
     {
-      "basename": "L'Hopital's Rule",
-      "path": "Permanent/L'Hopital's Rule.md"
-    },
-    {
       "basename": "Linearity of a Transformation",
       "path": "Permanent/Linearity of a Transformation.md"
     },
     {
       "basename": "Transformation",
       "path": "Permanent/Transformation.md"
-    },
-    {
-      "basename": "Integration of a Function",
-      "path": "MOC/Integration of a Function.md"
     },
     {
       "basename": "Fundamental Theorem of Calculus",
