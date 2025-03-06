@@ -13,9 +13,10 @@ bookref:
 
 ---
 ## Theory
-Given,
-$g(x)\leq f(x)\leq h(x)$ then,
-$\lim_{ x \to x_{o} }g(x)=\lim_{ x \to x_{o} }h(x)\implies \lim_{ x \to x_{o} }f(x)$
+> [!theorem] Sandwich Theorem
+> Given, three function $f(x)$, $g(x)$, and $h(x)$, s.t.,
+> $g(x)\leq f(x)\leq h(x)$ then,
+> $\lim_{ x \to x_{o} }g(x)=\lim_{ x \to x_{o} }h(x)\implies \lim_{ x \to x_{o} }f(x)$
 
 ---
 ## Examples

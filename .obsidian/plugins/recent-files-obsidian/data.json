@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Fundamental Theorem of Calculus - Part 1",
+      "path": "Permanent/Fundamental Theorem of Calculus - Part 1.md"
+    },
+    {
+      "basename": "Integration Formulas",
+      "path": "Permanent/Integration Formulas.md"
+    },
+    {
+      "basename": "Sequence and Series",
+      "path": "Permanent/Sequence and Series.md"
+    },
+    {
+      "basename": "Graphical Interpretation of Integration",
+      "path": "Permanent/Graphical Interpretation of Integration.md"
+    },
+    {
+      "basename": "Indefinite Integrals",
+      "path": "Permanent/Indefinite Integrals.md"
+    },
+    {
+      "basename": "Sandwich Theorem",
+      "path": "Permanent/Sandwich Theorem.md"
+    },
+    {
+      "basename": "Fundamental Theorem of Calculus",
+      "path": "Permanent/Fundamental Theorem of Calculus.md"
+    },
+    {
+      "basename": "Fundamental Theorem of Calculus - Part 2",
+      "path": "Permanent/Fundamental Theorem of Calculus - Part 2.md"
+    },
+    {
+      "basename": "Mathematical Operations",
+      "path": "Permanent/Mathematical Operations.md"
+    },
+    {
+      "basename": "Definition of Data Science",
+      "path": "Permanent/Definition of Data Science.md"
+    },
+    {
+      "basename": "Integration of a Function",
+      "path": "MOC/Integration of a Function.md"
+    },
+    {
       "basename": "Data Visualization",
       "path": "MOC/Data Visualization.md"
     },
@@ -11,10 +55,6 @@
     {
       "basename": "Mean Value Theorem",
       "path": "Permanent/Mean Value Theorem.md"
-    },
-    {
-      "basename": "Integration of a Function",
-      "path": "MOC/Integration of a Function.md"
     },
     {
       "basename": "Function",
@@ -97,20 +137,8 @@
       "path": "Permanent/Transformation.md"
     },
     {
-      "basename": "Fundamental Theorem of Calculus",
-      "path": "Permanent/Fundamental Theorem of Calculus.md"
-    },
-    {
-      "basename": "Fundamental Theorem of Calculus - Part 1",
-      "path": "Permanent/Fundamental Theorem of Calculus - Part 1.md"
-    },
-    {
       "basename": "Applications of Integration",
       "path": "MOC/Applications of Integration.md"
-    },
-    {
-      "basename": "Graphical Interpretation of Integration",
-      "path": "Permanent/Graphical Interpretation of Integration.md"
     },
     {
       "basename": "Average Value of a Function",

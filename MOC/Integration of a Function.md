@@ -11,7 +11,6 @@ list from [[]] and !outgoing([[]])
 ```
 ---
 # Integration of Functions
-
 ## Types of Integration
 1. [[Definite Integrals]]
     - ### [[Proper Integrals]]

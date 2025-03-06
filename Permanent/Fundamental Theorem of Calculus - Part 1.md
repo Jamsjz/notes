@@ -13,18 +13,13 @@ bookref:
 > <% tp.file.cursor(4) %>
 ---
 ## Theory
-The **First Fundamental Theorem of Calculus** states that if $f$ is a continuous function on the closed interval $[a, b]$, and $F$ is defined as:
-
-$$
-F(x) = \int_a^x f(t) \, dt
-$$
-
-
-$\forall  x  \in [a, b]$,  $F$ is differentiable on the open interval $(a, b)$, and the derivative of $F$ is given by:
-
-$$
-F'(x) = f(x)
-$$
+> [!theorem] **First Fundamental Theorem of Calculus**
+> If $f$ is a continuous function on the closed interval $[a, b]$, and $F$ is defined as:
+> $$F(x) = \int_a^x f(t) \, dt$$
+> $\forall  x  \in [a, b]$,  $F$ is differentiable on the open interval $(a, b)$, and the derivative of $F$ is given by:
+>$$
+> F'(x) = f(x)
+> $$
 
 This theorem essentially states that the process of integration can be reversed by differentiation. In other words, if you take the integral of a function and then differentiate that integral, you retrieve the original function.
 

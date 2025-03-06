@@ -20,7 +20,6 @@
   "obsidian-image-toolkit",
   "advanced-canvas",
   "mathlinks",
-  "mathlive",
   "obsidian-functionplot",
   "math-in-callout",
   "link-favicon",
@@ -30,5 +29,6 @@
   "quick-preview",
   "link-exploder",
   "edit-in-neovim",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "math-booster"
 ]

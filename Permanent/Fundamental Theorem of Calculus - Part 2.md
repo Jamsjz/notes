@@ -13,11 +13,11 @@ bookref:
 > <% tp.file.cursor(4) %>
 ---
 ## Theory
-The **Second Fundamental Theorem of Calculus** provides a method for evaluating definite integrals. It states that if  $f$ is continuous on the closed interval $[a,b]$, and $F$ is an antiderivative of $f$, then:
-
-$$
-\int_a^b f(x) \, dx = F(b) - F(a)
-$$
+> [!theorem] **Second Fundamental Theorem of Calculus**
+> If  $f$ is continuous on the closed interval $[a,b]$, and $F$ is an antiderivative of $f$, then:
+> $$
+> \int_a^b f(x) \, dx = F(b) - F(a)
+> $$
 
 This theorem indicates that to compute the definite integral of a function over an interval, one can evaluate its antiderivative at the upper and lower bounds and subtract these values.
 
