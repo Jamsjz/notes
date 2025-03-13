@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/Matrix.md",
+                "file": "Permanent/Multiplication of Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix"
+              "title": "Multiplication of Matrices"
             }
           }
         ]
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945
+    "width": 260.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ab80d19b861f11b2",
@@ -176,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Permanent/Matrix.md",
+                "file": "Permanent/Multiplication of Matrices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Matrix"
+              "title": "Graph of Multiplication of Matrices"
             }
           }
         ]
@@ -233,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent/Matrix.md",
+                "file": "Permanent/Multiplication of Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +244,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Matrix"
+              "title": "Backlinks for Multiplication of Matrices"
             }
           }
         ],
@@ -269,6 +270,7 @@
   },
   "active": "892126f5e298f811",
   "lastOpenFiles": [
+    "Permanent/Matrix.md",
     "Permanent/Set.md",
     "Permanent/Mathematical Operations.md",
     "MOC/Components of Vector Space.md",
@@ -294,7 +296,6 @@
     "Permanent/Range.md",
     "MOC/Functions.md",
     "Permanent/L'Hopital's Rule.md",
-    "Permanent/Shifting of Function.md",
     "Canvas/Derivative of a Function.canvas",
     "Canvas",
     "export/Integrals/plugin/chalkboard/_style.css",

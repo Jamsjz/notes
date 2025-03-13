@@ -15,13 +15,11 @@ bookref:
 ## Theory
 ### [[Set]] for Matrix Multiplication
 
-Matrix Multiplication is defined for $M_{m\times n}(\mathbb{F(\mathbb{R/\mathbb{C}},+,.)})$.
-
 Consider 2 matrices $A_{m\times p}$ , $B_{p\times n}$.
 Then, $C=AB$ exists of order $m\times n$ such that,
-
-> $C=AB=[c_{ij}]_{m\times n}$
-
+$$
+C=AB=[c_{ij}]_{m\times n}
+$$
 where,
 
 $$
@@ -33,7 +31,6 @@ $i\in[1,m]\text{ and } j\in[1,n]$
 
 ---
 ## Implementation
-
 
 
 ---
