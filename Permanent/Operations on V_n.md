@@ -72,24 +72,6 @@ $$\bar{x}-\bar{y}=\bar{x}+(-1)\bar{y}$$
 
 
 ---
-## Examples
-<% tp.file.cursor(2) %>
-
-
-
----
-## Implementation
-<% tp.file.cursor(3) %>
-
-
-
----
-## Q&A
-<% tp.file.cursor(4) %>
-
-
-
----
 # PTR
 
 1. 

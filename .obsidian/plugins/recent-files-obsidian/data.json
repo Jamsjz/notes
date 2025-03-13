@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Matrix",
+      "path": "Permanent/Matrix.md"
+    },
+    {
+      "basename": "Set",
+      "path": "Permanent/Set.md"
+    },
+    {
+      "basename": "Mathematical Operations",
+      "path": "Permanent/Mathematical Operations.md"
+    },
+    {
+      "basename": "Components of Vector Space",
+      "path": "MOC/Components of Vector Space.md"
+    },
+    {
+      "basename": "Vector Space",
+      "path": "MOC/Vector Space.md"
+    },
+    {
+      "basename": "Mathematical Properties",
+      "path": "Permanent/Mathematical Properties.md"
+    },
+    {
+      "basename": "n-Dimensional Space",
+      "path": "Permanent/n-Dimensional Space.md"
+    },
+    {
+      "basename": "Operations on V_n",
+      "path": "Permanent/Operations on V_n.md"
+    },
+    {
       "basename": "Fundamental Theorem of Calculus - Part 1",
       "path": "Permanent/Fundamental Theorem of Calculus - Part 1.md"
     },
@@ -31,10 +63,6 @@
     {
       "basename": "Fundamental Theorem of Calculus - Part 2",
       "path": "Permanent/Fundamental Theorem of Calculus - Part 2.md"
-    },
-    {
-      "basename": "Mathematical Operations",
-      "path": "Permanent/Mathematical Operations.md"
     },
     {
       "basename": "Definition of Data Science",

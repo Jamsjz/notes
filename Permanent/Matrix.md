@@ -23,7 +23,7 @@ A rectangular arrangement of elements (numbers) into rows and columns.
 ## [[Set]] for Matrix
 The set for all matrix of order $m\times n$ is:
 $$
-M_{m\times n}(\mathbb{F(\mathbb{R/\mathbb{C}},+,.)})
+M_{m\times n}(\mathbb{F(\mathbb{R/\mathbb{C}},+,.)})=\{[a_{ij}]_{m \times n} \in \mathbb{F}, 1 \leq i \leq m, 1 \leq j \leq n\}
 $$
 
 Symbolically a matrix $A=[a_{ij}]$ of order $m\times n$ is given by,

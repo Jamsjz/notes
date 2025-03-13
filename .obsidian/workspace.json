@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0391f9d5f0d80ba6",
+        "id": "1ed9395a5163083f",
         "type": "tabs",
         "children": [
           {
-            "id": "6114f29d6dff8fa3",
+            "id": "892126f5e298f811",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Matrix.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Matrix"
             }
           }
         ]
@@ -264,8 +268,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6114f29d6dff8fa3",
+  "active": "892126f5e298f811",
   "lastOpenFiles": [
+    "Permanent/Set.md",
+    "Permanent/Mathematical Operations.md",
+    "MOC/Components of Vector Space.md",
+    "MOC/Vector Space.md",
+    "Permanent/Mathematical Properties.md",
+    "Permanent/n-Dimensional Space.md",
+    "Permanent/Operations on V_n.md",
     "Permanent/Fundamental Theorem of Calculus - Part 1.md",
     "Permanent/Integration Formulas.md",
     "Permanent/Sequence and Series.md",
@@ -274,7 +285,6 @@
     "Permanent/Sandwich Theorem.md",
     "Permanent/Fundamental Theorem of Calculus.md",
     "Permanent/Fundamental Theorem of Calculus - Part 2.md",
-    "Permanent/Mathematical Operations.md",
     "Permanent/Definition of Data Science.md",
     "MOC/Integration of a Function.md",
     "MOC/Data Visualization.md",
@@ -286,13 +296,8 @@
     "MOC/Functions.md",
     "Permanent/L'Hopital's Rule.md",
     "Permanent/Shifting of Function.md",
-    "MOC/Derivative of a Function.md",
     "Canvas/Derivative of a Function.canvas",
     "Canvas",
-    "Permanent/Rank-Nullity Theorem.md",
-    "Permanent/Django.md",
-    "Presentations/Integrals.md",
-    "export/Integrals/plugin/chalkboard/README.md",
     "export/Integrals/plugin/chalkboard/_style.css",
     "export/Integrals/plugin/chalkboard/img/blackboard.png",
     "export/Integrals/plugin/chalkboard/img/boardmarker-black.png",
@@ -311,7 +316,6 @@
     "export/Integrals/plugin/chalkboard",
     "export/Integrals/plugin/chart/plugin.js",
     "export/Integrals/plugin/chart/chart.min.js",
-    "export/Integrals/plugin/chart/README.md",
     "export/Integrals/plugin/chart"
   ]
 }
