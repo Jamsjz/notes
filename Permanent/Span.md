@@ -35,6 +35,7 @@ $S=\{(1,0),(0,1)\}$
 $[S]= span(\{(1,0),(0,1)\})=\{\bar{x}:\bar{x}=c_{1}(0,1)+c_{2}(1,0)\text{ }|\text{ }c_{1},c_{2}\in \mathbb{R}\}$
 $V=\{\bar{x}:\bar{x}=(x_{1},x_{2})\text{ }|\text{ }x_{1},x_{2}\in \mathbb{R}\}$ 
 
+
 ---
 # PTR
 

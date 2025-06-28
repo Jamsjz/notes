@@ -32,8 +32,6 @@ According to [Microsoft Azure’s blog](https://docs.microsoft.com/en-us/azure/m
 
 In this stage, you should also be identifying the central objectives of your project by identifying the variables that need to be predicted. If it’s a regression, it could be something like a sales forecast. If it’s a clustering, it could be a customer profile. Understanding the power of data and how you can utilize it to derive results for your business by asking the right questions is more of an art than a science, and doing this well comes with a lot of experience. One shortcut to gaining this experience is to read what other people have to say about the topic, which is why I’m going to suggest a bunch of books to get started.
 
-**Get started:** [Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323), [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856/ref=sr_1_1?s=books&ie=UTF8&qid=1518139673&sr=1-1&keywords=everybody+lies)
-
 ### 2. Data Gathering([[Data Mining]])
 
 Now that you’ve defined the objectives of your project, it’s time to start gathering the data. Data mining is the process of gathering your data from different sources. Some people tend to group data retrieval and cleaning together, but each of these processes is such a substantial step that I’ve decided to break them apart. At this stage, some of the questions worth considering are - what data do I need for my project? Where does it live? How can I obtain it? What is the most efficient way to store and access all of it?

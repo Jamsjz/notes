@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Demo",
+      "path": "Demo.md"
+    },
+    {
+      "basename": "PieceWise Defined Function",
+      "path": "Permanent/PieceWise Defined Function.md"
+    },
+    {
+      "basename": "Data Preprocessing",
+      "path": "MOC/Data Preprocessing.md"
+    },
+    {
+      "basename": "DSMA-111 Introduction to Data Science",
+      "path": "MOC/DSMA-111 Introduction to Data Science.md"
+    },
+    {
+      "basename": "Data Science Life Cycle",
+      "path": "MOC/Data Science Life Cycle.md"
+    },
+    {
+      "basename": "Basis",
+      "path": "Permanent/Basis.md"
+    },
+    {
+      "basename": "Span",
+      "path": "Permanent/Span.md"
+    },
+    {
+      "basename": "Linearity of a Transformation",
+      "path": "Permanent/Linearity of a Transformation.md"
+    },
+    {
+      "basename": "Eigenvectors",
+      "path": "Permanent/Eigenvectors.md"
+    },
+    {
+      "basename": "Eigenvalue",
+      "path": "Permanent/Eigenvalue.md"
+    },
+    {
+      "basename": "Diagonal Matrix Representation Theorem",
+      "path": "Permanent/Diagonal Matrix Representation Theorem.md"
+    },
+    {
+      "basename": "Kernel of Linear Transformation",
+      "path": "Permanent/Kernel of Linear Transformation.md"
+    },
+    {
+      "basename": "Transformation",
+      "path": "Permanent/Transformation.md"
+    },
+    {
+      "basename": "Mathematical Operations",
+      "path": "Permanent/Mathematical Operations.md"
+    },
+    {
       "basename": "Multiplication of Matrices",
       "path": "Permanent/Multiplication of Matrices.md"
     },
@@ -11,10 +67,6 @@
     {
       "basename": "Set",
       "path": "Permanent/Set.md"
-    },
-    {
-      "basename": "Mathematical Operations",
-      "path": "Permanent/Mathematical Operations.md"
     },
     {
       "basename": "Components of Vector Space",
@@ -147,34 +199,6 @@
     {
       "basename": "Rank of a Matrix",
       "path": "Permanent/Rank of a Matrix.md"
-    },
-    {
-      "basename": "Kernel of Linear Transformation",
-      "path": "Permanent/Kernel of Linear Transformation.md"
-    },
-    {
-      "basename": "Batteries Included Framework",
-      "path": "Permanent/Batteries Included Framework.md"
-    },
-    {
-      "basename": "Differentiability of a Function",
-      "path": "Permanent/Differentiability of a Function.md"
-    },
-    {
-      "basename": "Linearity of a Transformation",
-      "path": "Permanent/Linearity of a Transformation.md"
-    },
-    {
-      "basename": "Transformation",
-      "path": "Permanent/Transformation.md"
-    },
-    {
-      "basename": "Applications of Integration",
-      "path": "MOC/Applications of Integration.md"
-    },
-    {
-      "basename": "Average Value of a Function",
-      "path": "Permanent/Average Value of a Function.md"
     }
   ],
   "omittedPaths": [],

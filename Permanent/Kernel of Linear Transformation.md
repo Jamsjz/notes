@@ -13,7 +13,7 @@ bookref:
 > <% tp.file.cursor(4) %>
 ---
 ## Theory
-**Kernel** (also called the **null space**) of a linear transformation is the set of all input vectors that the transformation maps to the **zero vector**.
+**Kernel** (also called the **null space**) of a [[Linearity of a Transformation#Linear Transformation|Linear Transformation]] is the set of all input vectors that the transformation maps to the **zero vector**.
 
 For a linear transformation $T: V \to W$ between two vector spaces, the **kernel** of $T$ is defined as:
 
@@ -58,26 +58,6 @@ $$
 $$
 
 This means that all solutions are scalar multiples of $(-2,1)$.
-
-
-
-
----
-## Examples
-<% tp.file.cursor(2) %>
-
-
----
-## Implementation
-<% tp.file.cursor(3) %>
-
-
-
----
-## Q&A
-<% tp.file.cursor(4) %>
-
-
 
 ---
 # PTR

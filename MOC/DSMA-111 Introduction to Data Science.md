@@ -32,5 +32,7 @@ list from [[]] and !outgoing([[]])
 	- [[Data Visualization]]
 
 
+We have many [[Algorithms]] is the world.
+
 
 ---
